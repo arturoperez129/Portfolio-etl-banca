@@ -1,0 +1,921 @@
+id_cliente,nombre_completo,cedula,ruc,fecha_nacimiento,telefono,email,direccion,ciudad,fecha_alta
+C000361,Luis Escobar Insfrán,3805517,,1994-03-25,+595983155597,luis.escobar@hotmail.com,Avenida Mariscal López 1951,Encarnación,2018-11-13
+C000618,Natalia Escobar Rojas,3584475,3584475-2,1987-08-14,+595988621450,natalia.escobar@gmail.com,Avenida Mariscal López 2017,Asunción,2018-10-24
+C000348,"MARTÍNEZ DUARTE, ANA CARLOS",3.596.659,,1983-10-10,0983 587 836,ana.martinez@empresa.com.py,Avenida Mariscal López 3316,Encarnación,2020-09-23
+C000750,"TORRES VILLALBA, JUAN",1990902,1990902-0,1967-06-01,+595977224425,,Avenida Madame Lynch 356,asunción,2020-05-09
+C000508,María Ana Cabrera Duarte,7629048,,1952-03-30,0984582635,maria.cabrera@empresa.com.py,Avenida Madame Lynch 3223,Capiatá,2024-04-06
+C000553,Derlis Cáceres Romero,1375527,1375527-7,1960-01-19,0983917102,derlis.caceres@gmail.com,Avenida Eusebio Ayala 2794,Capiatá,2023-04-08
+C000096,Diego Rosa Ortiz Ayala,3545765,3545765-1,1978-05-22,(0976) 921185,diego.ortiz@outlook.com,Avenida Mariscal López 1166,Luque,2022-05-18
+C000412,"GIMÉNEZ AYALA, NATALIA LUIS",4788598,4788598-0,1989-06-19,(0976) 778181,natalia.gimenez@outlook.com,Calle Independencia 3491,Capiatá,2024-10-21
+C000645,Fabiola Torres Cabrera,2068829,,1952-02-11,0983190445,,C/ Palma 1586,C. del Este,2022-11-14
+C000380,luis insfran caceres,3464610,3464610-8,1976-02-14,0974 801 206,,Avenida España 366,Lambaré,2021-09-04
+C000640,Sofía Lorena Vera Ortiz,7411194,,1968-05-28,+595974634932,sofia.vera@outlook.com,Avda. España 3934,Luque,2019-10-09
+C000845,MAÍRA ESCOBRA SAMUDIO,,,1986-07-10,0982050258,maira.escobra@hotmail.com,Avenida España 1221,San Lorenzo,2022-04-07
+C000492,Derlis González Cáceres,6150444,,1992-06-07,0972697390,,Avenida Eusebio Ayala 3421,Fernando de la Mora,2024-09-09
+C000740,"BENÍTEZ ESCOBAR, LUIS JUAN",6173876,6173876-0,1990-11-24,(0989) 152217,luis.benitez@gmail.com,Avenida Madame Lynch 1973,C. del Este,2021-11-16
+C000522,María Torres Rojas,4110327,,1964-10-12,+595971588219,maria.torres@outlook.com,Calle Palma 2155,Lambaré,2020-03-27
+C000113,Miguel Escobar Benítez,1.548.374,,1969-01-14,0980287592,miguel.escobar@gmail.com,Calle Independencia 539,Capiatá,2022-06-02
+C000529,"GIMÉNEZ ROJAS, LORENA",0,,1982-12-23,0985667938,lorena.gimenez@outlook.com,Calle Cerro Corá 1584,Luque,2020-01-18
+C000423,DERLIS MARTÍNEZ VERA,6563339,6563339-3,1975-01-05,0976 058 635,DERLIS.MARTINEZ@EMPRESA.COM.PY,Avenida Mariscal López 1130,Lambaré,2020-07-29
+C000433,derlis cabrera acosta,1.451.620,,1966-08-11,0985991525,derlis.cabrera@empresa.com.py,Avenida Madame Lynch 3600,Luque,2023-05-29
+C000148,SOFÍA GIMÉNEZ CÁCERES,3585669,3585669-6,1979-05-27,0980681066,,Avda. España 2709,Encarnación,2020-10-21
+C000440,LUIS TORRES MARTÍNEZ,4166710,4166710-7,1977-09-20,+595981203467,,CALLE PALMA 3466,Capiatá,2021-06-08
+C000763,"MARTÍNEZ INSFRÁN, LIZ",4824024,4824024-9,1956-10-07,0976130202,liz.martinez@hotmail.com,Avenida España 3014,Encarnación,2021-05-01
+C000338,"ORTIZ LÓPEZ, MIGUEL",6100308,,1993-08-14,(0978) 054408,,Avenida Mariscal López 3536,Ciudad del Este,2018-07-09
+C000816,"GONZLÁEZ DUARTE, SOOFÍA",,7646899-2,1966-02-07,0974072615,,Calle Cerro Corá 1565,Fernando de la Mora,2021-08-13
+C000577,Rosa Benítez Vera,7265287,7265287-0,1959-01-25,0987 805 261,rosa.benitez@gmail,Avenida España 3981,Capiatá,2023-03-14
+C000004,"CÁCERES AYALA, ANA RUBÉN",5.697.603,5697603-8,1979-01-27,0981902591,ana.caceres@outlook.com,Calle Palma 3974,Capiatá,2019-03-07
+C000055,Rubén Karina Benítez Cabrera,1.912.797,1912797-9,1958-05-08,+595981734032,ruben.benitez@gmail.com,Avenida Mariscal López 2047,asunción,2022-10-02
+C000063,Derlis Samudio Acosta,0,3787608-2,1970-10-12,0985 227 379,derlis.samudio@gmail.com,Avenida Madame Lynch 1387,Fdo. de la Mora,2024-10-23
+C000133,liz carlos samudio romero,4442188,,1993-05-27,0980960036,liz.samudio@empresa.com.py,Avenida Eusebio Ayala 553,Lambaré,2020-04-18
+C000503,Miguel Luis Villalba Samudio,2478395,2478395-1,1974-07-24,(0973) 867223,miguel.villalbahotmail.com,C/ Palma 3045,ASUNCIÓN,2020-05-22
+C000643,natalia jose vera torres,5.730.791,,1955-08-22,0986901503,,AVENIDA EUSEBIO AYALA 3712,San Lorenzo,2023-05-26
+C000315,FABIOLA JUAN MARTÍNEZ ROMERO,7.676.396,7676396-0,1962-04-18,+595978370648,fabiola.martinez@empresa.com.py,Avenida Eusebio Ayala 569,Fernando de la Mora,2020-08-29
+C000476,karina rosa baez cabrera,5646308,,1981-05-31,+595977704792,karina.baez@gmail.com,Avenida España 1202,Lambaré,2020-11-07
+C000760,Natalia Derlis Acosta Vera,4464774,,1979-12-21,0973219605,natalia.acosta@outlook.com,Avenida España 3052,Capiatá,2024-05-12
+C000655,Karina Sofía Britez Cabrera, 2785290 ,,1984-01-14,0987 640 362,,AVENIDA ESPAÑA 2086,Ciudad del Este,2022-12-17
+C000506,Lorena Luis Acosta Cabrera,1950707,1950707-0,1953-11-04,0977693098,,AVENIDA ESPAÑA 2084,Ciudad del Este,2018-05-24
+C000327,Ana Fabiola Britez Benítez,4.172.422,,1994-01-22,(0978) 952212,ANA.BRITEZ@EMPRESA.COM.PY,Avda. España 1508,Lambaré,2021-11-19
+C000906,"ACOSTA BRITEZ, NAATLIA",6379865,,,+595980019706,naatlia.acosta@hotmail.com,Avenida Mariscal López 3530,Fernando de la Mora,2022-02-22
+C000162,gustavo gimenez acosta,4691002,4691002-6,1951-09-25,0980 284 363,gustavo.gimenez@gmail.com,CALLE CERRO CORÁ 2209,Asunción,2018-08-10
+C000783,Miguel José López Insfrán,3188891,,1984-05-03,0979631681,miguel.lopez@outlook.com,C/ Independencia 3715,San lorenzo,2018-08-21
+C000478,Miguel Cáceres Villalba,1924204,1924204-2,1968-06-10,0973876442,miguel.caceres@gmail.com,Calle Palma 2386,Luque,2023-11-09
+C000220,Liz Cabrera Rojas,1350520,1350520-3,1973-02-27,0980166865,liz.cabrera@empresa.com.py,AVENIDA EUSEBIO AYALA 2856,Encarnación,2022-01-25
+C000675,sofia carlos vera insfran,4.748.525,4748525-6,1992-04-02,(0981) 493692,sofia.vera@gmail.com,Calle Independencia 619,Lambaré,2019-04-03
+C000372,"ESCOBAR INSFRÁN, CARLOS JUAN",7457040,,1965-03-24,(0972) 850345,,Calle Independencia 3339,Ciudad del Este,2022-08-31
+C000688,ANA FABIOLA FRETES FRETES,1.974.642,1974642-3,1992-05-14,0985 360 823,ana.fretes@gmail,Avenida Eusebio Ayala 3302,Encarnación,2022-07-31
+C000717,Lorena Cáceres Britez,1420083,1420083-0,1966-08-22,+595973436511,lorena.caceres@empresa.com.py,Avenida Eusebio Ayala 215,Capiatá,2019-03-19
+C000309,María Giménez Cáceres,1.901.597,1901597-6,1992-04-29,(0984) 310272,,C/ Independencia 3443,Luque,2021-01-02
+C000094,Lorena Insfrán Samudio,2393978,2393978-8,1960-03-31,0984 121 458,lorena.insfran@empresa.com.py,Calle Palma 1525,Luque,2019-09-20
+C000719,Natalia Sofía Cabrera Fretes,7136035,7136035-2,1998-11-25,(0972) 179640,natalia.cabrera@empresa.com.py,Calle Cerro Corá 1442,Fernando de la Mora,2023-03-22
+C000831,"GIMÉNEZ CÁCRES, MIGUELGUSTAVO",,3662999-5,1997-07-28,(0971) 968343,miguelgustavo.gimenezhotmail.com,Calle Palma 1110,Ciudad del Este,2023-04-16
+C000272,"MARTÍNEZ AYALA, NATALIA DERLIS", 3424080 ,3424080-2,1985-08-21,+595981512732,NATALIA.MARTINEZ@HOTMAIL.COM,Avenida Madame Lynch 3339,Lambaré,2024-02-11
+C000915,Digeo Durate Britez,6789394,,1960-01-21,+595975677627,DIGEO.DURATE@GMAIL.COM,Avenida Madame Lynch 548,Capiatá,2022-05-19
+C000685,derlis insfran duarte,1.851.338,,1969-03-19,0982541410,,Avenida Mariscal López 1200,San Lorenzo,2018-07-06
+C000352,Rubén Torres López,1198020,,1993-01-03,0983 949 245,ruben.torres@outlook.com,Avenida Eusebio Ayala 1182,Capiatá,2019-06-08
+C000086,Sofía Karina Acosta Vera,6478938,6478938-1,1993-09-21,0983527652,sofia.acostahotmail.com,Avda. Eusebio Ayala 2416,Luque,2018-07-30
+C000197,Carlos González Torres,2703125,,1988-03-31,+595978087643,carlos.gonzalez@hotmail.com,Calle Cerro Corá 2956,Capiatá,2023-12-25
+C000385,Rubén Sofía Martínez Acosta,5218775,,1962-07-04,0977767239,,Calle Palma 3815,Luque,2022-08-17
+C000290,jose rojas duarte,1.399.639,1399639-8,1950-04-11,+595985720108,JOSE.ROJAS@OUTLOOK.COM,AVENIDA ESPAÑA 105,Capiatá,2018-05-03
+C000498,carlos vera lopez,5401779,,1973-02-07,0975301325,CARLOS.VERA@HOTMAIL.COM,Calle Palma 675,Asu,2018-11-04
+C000470,karina insfran baez,7.504.864,7504864-7,1982-07-06,+595986964915,KARINA.INSFRAN@EMPRESA.COM.PY,Avenida Madame Lynch 691,C. del Este,2018-04-19
+C000832,"MARTÍNEZ BNÍTEZ, ANA KARNA",5799247,,1970-11-14,0980 590 483,ana.martinez@empresa.com.py,Avenida Madame Lynch 3391,Fdo. de la Mora,2024-07-27
+C000892,SOFÍA LORRENA GIMÉNEZ VILLALBA,4.667.327,,1971-01-19,+595972701107,sofia.gimenez@gmail.com,Calle Independencia 1810,Capiatá,2021-07-14
+C000578,José González Ortiz,1100540,,1984-12-09,0980999710,jose.gonzalez@gmail.com,AVENIDA ESPAÑA 2409,S. Lorenzo,2021-10-18
+C000416,Ana Luis Fretes López,7.891.155,,1963-12-11,0987 480 485,ana.fretes@gmail.com,Avda. Madame Lynch 368,Ciudad del Este,2022-01-08
+C000079,RUBÉN BRITEZ ROJAS,5831315,5831315-0,1993-03-06,+595972809729,ruben.britez@gmail.com,CALLE PALMA 1887,Luque,2022-02-05
+C000547,jose lopez samudio,0,6424063-0,1980-08-05,0984 241 295,jose.lopez@gmail,CALLE INDEPENDENCIA 1873,Lambaré,2022-05-19
+C000677,Carlos Cabrera Acosta,6.381.761,,1978-12-16,(0983) 879038,carlos.cabrera@hotmail.com,Avenida Madame Lynch 3172,Fernando de la Mora,2024-05-29
+C000128,Juan Sofía Giménez Benítez,6171217,,1990-04-07,0975328964,juan.gimenez@outlook.com,Avenida Madame Lynch 1902,Encarnación,2024-05-20
+C000239,Rubén Miguel Torres Benítez,5868386,5868386-0,1952-07-02,0972626083,ruben.torres@empresa.com.py,Avda. Mariscal López 3046,FERNANDO DE LA MORA,2021-02-27
+C000738,"ROJAS CÁCERES, ANA",6388804,6388804-1,1993-05-20,0979 400 584,ANA.ROJAS@OUTLOOK.COM,C/ Palma 365,Luque,2018-06-23
+C000702,Juan Vera Britez,4839579,,1952-10-17,0973 281 037,juan.vera@gmail.com,C/ Palma 2003,Capiatá,2021-01-16
+C000805,María Torress Rojas,4.110.327,4110327-0,1964-10-12,0971588219,maria.torress@outlook.com,Calle Palma 2155,Lambaré,2021-09-17
+C000812,DIGEO ROSA ORTIZ AYALA,,3545765-1,1978-05-22,0976 921 185,digeo.ortiz@gmail,Avda. Mariscal López 1166,Luque,2023-02-21
+C000501,Miguel Luis Martínez Fretes,4737385,,1960-09-23,+595976743148,,AVENIDA MARISCAL LÓPEZ 375,San Lorenzo,2019-01-11
+C000494,Natalia Martínez Benítez, 4361292 ,4361292-0,1983-05-07,(0989) 013232,,CALLE INDEPENDENCIA 496,Lambaré,2024-11-05
+C000648,"VERA ESCOBAR, JUAN MARÍA",7685289,7685289-0,1977-05-03,0975 794 239,juan.vera@gmail.com,Avenida España 744,San lorenzo,2024-06-08
+C000844,Derlis Juuan Britez Frtees,4429110,4429110-8,1978-12-23,0971 081 789,derlis.britez@empresa.com.py,CALLE PALMA 2817,Capiatá,2020-09-30
+C000588,Carlos Romero Martínez, 5328477 ,5328477-1,1953-02-13,(0985) 219945,carlos.romero@outlook.com,Avda. Eusebio Ayala 516,Capiatá,2018-12-07
+C000617,Ana Luis Rojas Cáceres,5522095,,1978-11-23,0985083068,ANA.ROJAS@GMAIL.COM,Avenida España 3447,Encarnación,2018-08-30
+C000265,Lorena Luis Escobar Cáceres,2321084,2321084-2,1977-08-24,0974617893,LORENA.ESCOBAR@EMPRESA.COM.PY,CALLE INDEPENDENCIA 2328,Encarnación,2019-11-13
+C000221,Karina Báez Britez,3333403,3333403-0,1983-12-29,0971102784,karina.baezoutlook.com,Calle Cerro Corá 1000,Ciudad del Este,2020-05-29
+C000010,Juan Sofía Escobar López,5573103,,1992-04-28,+595974813366,,C/ Palma 2726,Encarnación,2020-09-16
+C000884,"VERA VVILLALBA, LOENA",,1370341-2,,0978 206 044,loena.vera@empresa.com.py,C/ Palma 3037,Lambaré,2026-01-11
+C000661,JUAN SAMUDIO ROMERO, 4779064 ,4779064-4,1983-02-09,980893,,Avenida Mariscal López 530,Fernando de la Mora,2022-02-03
+C000802,Liz Acosta Villalba,7.222.015,7222015-5,1972-08-18,0979128138,liz.acosta@outlook.com,Avenida Madame Lynch 2243,Ciudad del Este,2021-11-29
+C000314,"VERA VERA, ROSA DERLIS",7.494.112,,1989-11-20,0983 948 156,rosa.vera@gmail.com,Avenida España 3230,Asu,2018-02-27
+C000741,"BÁEZ CABRERA, CARLOS",5142760,,1974-04-29,0979 235 358,carlos.baez@gmail,Avenida Mariscal López 1619,Lambaré,2021-06-22
+C000058,jose ayala benitez,2.735.154,2735154-8,1968-03-14,0986 863 310,jose.ayala@gmail.com,Avenida Eusebio Ayala 3662,Ciudad del Este,2018-01-28
+C000856,Mguel Acost Benítez,,3768595-9,1990-05-17,+595975909562,,C/ Cerro Corá 590,Asu,2021-08-10
+C000489,fabiola duarte insfran,6699083,6699083-1,1961-01-20,0972 307 466,fabiola.duarte@outlook.com,Calle Palma 1583,Ciudad del Este,2018-01-03
+C000644,jose derlis insfran fretes,7749793,7749793-7,1972-03-24,0975176016,jose.insfran@hotmail.com,Avda. Eusebio Ayala 810,Capiatá,2023-11-24
+C000828,"MARTÍNEZ INSFRÁN, LIZ",4.824.024,,1956-10-07,(0976) 130202,liz.martinez@gmail.com,Avenida España 3014,Encarnación,2022-02-28
+C000211,"INSFRÁN LÓPEZ, LUIS SOFÍA",5913423,,1954-07-21,0978 390 335,luis.insfran@empresa.com.py,Avenida Mariscal López 1120,Ciudad del Este,2021-02-05
+C000407,"BÁEZ DUARTE, JUAN DIEGO",6.532.533,6532533-8,1962-06-14,+595989934265,juan.baez@empresa.com.py,C/ Palma 1500,Fdo. de la Mora,2021-05-02
+C000306,Derlis López Samudio,4834236,4834236-0,1995-03-12,+595987325624,derlis.lopez@gmail.com,Calle Palma 1615,Fernando de la Mora,2019-04-30
+C000669,"MARTÍNEZ VILLALBA, GUSTAVO LORENA",5.522.172,,1979-06-18,0989321435,gustavo.martinez@gmail,Avenida Mariscal López 1038,Asunción,2018-08-15
+C000347,karina torres ayala,3338953,3338953-5,1964-09-13,0988618463,karina.torres@hotmail.com,Avda. Madame Lynch 387,San Lorenzo,2023-05-02
+C000106,"SAMUDIO INSFRÁN, NATALIA FABIOLA",4445735,4445735-9,1962-09-10,(0975) 171601,,Calle Palma 2371,Asunción,2024-03-17
+C000408,Fabiola Samudio Escobar,6916617,,1965-02-15,+595984809580,fabiola.samudio@gmail.com,Avenida Mariscal López 3258,Encarnación,2020-01-09
+C000258,Carlos Derlis Báez González,1223371,,1994-07-25,0979245188,carlos.baez@gmail.com,Avda. Madame Lynch 988,Asu,2023-08-27
+C000292,José Fabiola Benítez Báez,2.370.232,,1968-09-15,0979298387,,Avda. Madame Lynch 2665,Luque,2024-05-27
+C000081,"BÁEZ ACOSTA, MARÍA MARÍA",3869433,3869433-6,1954-09-20,0980 453 302,,Calle Cerro Corá 3896,Ciudad del Este,2024-09-07
+C000882,DERLIS LORENA SAMUDIO TORRES,1174106,1174106-6,1976-03-29,0989039472,derlis.samudio@gmail.com,C/ Palma 1725,Ciudad del Este,2023-05-27
+C000823,Migguel Carlos Villalba Ayala,3523121,3523121-1,1957-01-26,0989 342 515,,Calle Cerro Corá 2507,Capiatá,2021-05-20
+C000291,Karina Rojas López,5365901,,1996-11-09,+595984128450,karina.rojasoutlook.com,Calle Cerro Corá 3842,Encarnación,2018-11-02
+C000888,Miuel Fabiola Acosta áez,6401966,,1961-10-27,+595977704112,miuel.acosta@gmail,Avda. Eusebio Ayala 2717,Fernando de la Mora,2023-09-12
+C000303,Fabiola Derlis Cabrera Cáceres,7.005.158,,1993-10-28,0982083357,fabiola.cabreragmail.com,AVENIDA MADAME LYNCH 3438,Luque,2018-06-05
+C000068,Juan Carlos Benítez López,3129885,3129885-0,1994-06-29,0975 607 284,juan.benitez@hotmail.com,C/ Cerro Corá 3885,Asunción,2020-04-23
+C000060,Gustavo Ana Báez Insfrán,0,,1995-06-04,0979 948 287,gustavo.baez@outlook.com,Avenida Mariscal López 341,San lorenzo,2022-04-16
+C000267,JOSÉ FABIOLA CÁCERES DUARTE,5.479.962,,1951-03-14,(0988) 751146,JOSE.CACERES@HOTMAIL.COM,Avenida Mariscal López 3222,Luque,2023-08-14
+C000681,Karina Ana González Cabrera,0,,1970-08-03,+595977918947,karina.gonzalez@empresa.com.py,Calle Independencia 2792,Lambaré,2020-02-10
+C000299,"CÁCERES ESCOBAR, DERLIS LORENA",5918937,5918937-1,1998-11-26,0980714185,derlis.caceres@empresa.com.py,Avda. Madame Lynch 3563,San lorenzo,2018-12-04
+C000201,José Juan Duarte Martínez,5.793.075,5793075-9,1977-06-07,+595976235998,jose.duarte@outlook.com,Avenida Mariscal López 2889,Lambaré,2020-07-08
+C000243,RUBÉN ORTIZ BRITEZ,0,,1980-04-26,0974 369 368,ruben.ortiz@hotmail.com,C/ Independencia 1199,Capiatá,2019-02-03
+C000567,Miguel Liz Britez Vera,2474999,2474999-0,1986-12-13,+595983701794,,Avenida Madame Lynch 280,Capiatá,2018-06-21
+C000029,"DUARTE TORRES, JUAN",2385162,,1977-06-08,(0979) 148715,juan.duarte@gmail.com,Avda. Eusebio Ayala 2993,Luque,2018-10-14
+C000868,Guustavo Ayal Insfrán,,,1999-05-17,0985 132 920,,Avenida España 374,Luque,2020-07-11
+C000611,derlis acosta torres,1427208,1427208-3,1978-07-30,0983545058,derlis.acostaempresa.com.py,Avenida Eusebio Ayala 413,Lambaré,2019-07-23
+C000259,"ROJAS ACOSTA, MIGUEL",1993622,,1974-07-23,0977819659,miguel.rojas@empresa.com.py,Calle Independencia 3248,Luque,2024-06-04
+C000510,Lorena Rojas Benítez,5525231,5525231-1,1982-04-07,0982370313,,Avenida España 1656,Capiatá,2024-09-23
+C000896,Maríía Natalia Fretes Martínez,,5528323-9,1999-03-21,0981445385,mariia.fretes@hotmail.com,CALLE PALMA 2586,Ciudad del Este,2024-08-22
+C000597,SOFÍA AYALA BÁEZ,6567729,6567729-3,1971-09-26,+595982605725,,Avda. Madame Lynch 2912,Lambaré,2021-01-16
+C000699,Liz Ana Martínez Torres,3378340,3378340-3,1985-08-22,(0988) 315687,LIZ.MARTINEZ@EMPRESA.COM.PY,Avenida España 234,San lorenzo,2019-07-16
+C000324,Juan Villalba Ayala,1369061,1369061-2,1960-06-15,0985013902,juan.villalba@outlook.com,Avda. Madame Lynch 353,S. Lorenzo,2024-06-02
+C000023,ana juan villalba ortiz,2999876,,1988-10-27,+595974794891,,Avda. Eusebio Ayala 442,Lambaré,2018-08-16
+C000235,"BRITEZ LÓPEZ, ROSA JUAN",4470459,4470459-3,1975-07-29,+595983448796,rosa.britez@gmail.com,Calle Cerro Corá 2991,Encarnación,2023-03-02
+C000711,"ESCOBAR ORTIZ, ROSA RUBÉN",1108428,,1990-07-04,982113,ROSA.ESCOBAR@HOTMAIL.COM,AVENIDA EUSEBIO AYALA 269,Lambaré,2018-08-04
+C000676,Ana Miguel González Acosta,6.153.490,,1985-09-09,0982015993,ANA.GONZALEZ@GMAIL.COM,Avenida Mariscal López 2111,Lambaré,2022-12-18
+C000135,fabiola diego vera caceres,6047830,6047830-6,1952-07-24,0983986026,fabiola.veraempresa.com.py,Calle Cerro Corá 1291,Ciudad del Este,2022-09-09
+C000511,Lorena Fretes Benítez,3040685,,1959-01-14,0982 897 803,lorena.fretesoutlook.com,AVENIDA EUSEBIO AYALA 3541,Encarnación,2018-01-16
+C000560,"GONZÁLEZ BRITEZ, KARINA DIEGO",3.576.919,,1962-10-04,+595988476429,,Avenida Eusebio Ayala 810,Asu,2020-01-21
+C000038,Rubén Martínez Vera,2775421,,1992-05-26,0977 317 754,ruben.martinezempresa.com.py,Avenida España 2191,Lambaré,2023-02-22
+C000859,Natalia Drlis Acsta Vera,,4464774-9,1979-12-21,0973219605,,Avda. España 3052,Capiatá,2024-07-08
+C000496,"BÁEZ CÁCERES, MARÍA",2.777.445,2777445-7,1975-05-28,0978 013 047,maria.baez@gmail.com,Avenida Madame Lynch 1079,Luque,2020-06-15
+C000116,Ana Martínez Insfrán,5.051.438,5051438-9,1950-07-24,0984492097,,Calle Palma 2912,Capiatá,2018-06-16
+C000632,Ana Samudio Duarte,1678041,1678041-8,1950-04-10,0989393159,ana.samudio@gmail,CALLE INDEPENDENCIA 2013,Fernando de la Mora,2021-11-19
+C000474,Sofía Cabrera Samudio, 3841877 ,,1994-09-30,0983 511 015,sofia.cabrera@outlook.com,C/ Independencia 3164,San Lorenzo,2024-10-02
+C000703,Carlos Benítez Giménez,7041983,,1966-07-17,0976432190,carlos.benitez@empresa.com.py,AVENIDA ESPAÑA 302,Fernando d.l. Mora,2018-12-30
+C000194,Derlis Ayala Insfrán,7124276,7124276-7,1955-03-26,0971 434 181,derlis.ayala@empresa.com.py,Avenida Eusebio Ayala 2827,Ciudad del Este,2022-02-28
+C000609,Liz Giménez Rojas,5130004,5130004-4,1973-09-22,+595972300390,,Avda. España 424,Ciudad del Este,2024-10-06
+C000847,Luis Villalba Escobar,,2483200-6,,0973 317 718,luis.villalba@hotmail.com,Avenida España 3993,San Lorenzo,2024-01-16
+C000012,María Báez Cáceres,6.286.810,,1993-05-17,(0987) 242068,maria.baez@outlook.com,Calle Independencia 3094,Lambaré,2018-03-14
+C000857,Faboila Báezz Escobar,4968702,4968702-6,1976-11-10,0981 619 499,faboila.baezz@hotmail.com,Calle Cerro Corá 3637,Encarnación,2019-05-19
+C000359,DIEGO AYALA BÁEZ,2869189,,1979-06-05,+595975404095,diego.ayala@hotmail.com,Calle Palma 3507,Luque,2019-02-07
+C000237,JUAN ROSA LÓPEZ ESCOBAR,3200237,,1957-12-22,0985 782 915,juan.lopez@outlook.com,CALLE INDEPENDENCIA 2446,Encarnación,2020-09-09
+C000917,"CÁCERES VERA, RUBÉN DIEGO",,7156564-7,1964-11-18,978317,ruben.caceres@hotmail.com,Avenida Madame Lynch 1927,S. Lorenzo,2025-01-28
+C000257,maria samudio samudio,7296716,,1975-12-05,+595984052772,,Avenida Eusebio Ayala 908,Fernando de la Mora,2024-07-12
+C000590,"FRETES GONZÁLEZ, JUAN LORENA",2257157,2257157-4,1968-12-06,0987746716,juan.fretes@outlook.com,Calle Independencia 2047,Asu,2018-12-22
+C000504,DERLIS GONZÁLEZ CÁCERES,4590403,4590403-0,1975-10-21,0976 040 176,derlis.gonzalez@hotmail.com,C/ Independencia 3653,CDE,2024-12-03
+C000028,carlos carlos romero duarte,6118013,,1999-03-30,0987 663 338,carlos.romero@outlook.com,Avenida Mariscal López 2684,Lambaré,2020-06-20
+C000757,DERLIS TORRES BRITEZ,6634188,,1968-07-30,0980 592 423,,Calle Palma 2268,Asunción,2023-05-05
+C000284,Derlis Rubén Vera Vera,4235132,,1998-04-23,0982 583 447,derlis.vera@gmail.com,CALLE PALMA 990,Fernando d.l. Mora,2024-06-22
+C000700,Lorena González González,4217177,4217177-6,1954-10-25,0980141477,lorena.gonzalez@outlook.com,AVENIDA MADAME LYNCH 661,Luque,2024-09-10
+C000452,DERLIS MIGUEL ROMERO CABRERA,6.100.814,,1959-03-26,0981011572,DERLIS.ROMERO@OUTLOOK.COM,C/ Independencia 1153,Lambaré,2021-11-04
+C000318,Miguel Insfrán Duarte,7172885,,1964-04-27,0971022523,miguel.insfran@hotmail.com,C/ Palma 1818,Encarnación,2019-10-08
+C000912,LIZ CÁCERES MARTÍNEZ,6.634.859,,1968-08-29,0975907588,LIZ.CACERES@GMAIL.COM,Calle Independencia 2266,Fernando de la Mora,2023-12-21
+C000875,"BENÍETZ MARTÍNEZ, DEIGO",,3399058-1,1959-07-23,0976 983 576,deigo.benietzgmail.com,Avda. Eusebio Ayala 2497,Fernando de la Mora,2021-07-14
+C000163,Diego Ortiz Báez,7.369.698,7369698-6,1953-11-10,0987455847,diego.ortiz@gmail.com,C/ Independencia 1656,Encarnación,2021-02-19
+C000100,Ana Gustavo Báez Ortiz,3.032.426,,1965-08-06,0978727788,ana.baez@outlook.com,Avda. España 533,Encarnación,2020-09-30
+C000619,Natalia Liz Báez López,6.668.551,,1991-01-27,(0978) 631430,natalia.baez@empresa.com.py,Calle Independencia 2305,Encarnación,2018-04-03
+C000695,Lorena Britez López,5.971.788,5971788-2,1985-02-26,(0976) 869398,lorena.britez@hotmail.com,Avda. Madame Lynch 3665,ASUNCIÓN,2021-11-14
+C000061,"ACOSTA VERA, LIZ LIZ",5085424,5085424-0,1967-10-23,0982360973,liz.acosta@gmail.com,Calle Cerro Corá 2881,Ciudad del Este,2024-01-09
+C000374,ANA CABRERA VERA,6016599,,1964-12-16,0981225792,,Calle Palma 433,Capiatá,2021-05-04
+C000528,Sofía María Rojas Cabrera,5778915,5778915-0,1978-08-20,0986 275 367,sofia.rojas@outlook.com,C/ Independencia 1124,Encarnación,2018-01-27
+C000475,diego miguel vera rojas,1248473,1248473-3,1950-09-24,0983 649 901,diego.veraoutlook.com,AVENIDA ESPAÑA 1256,Encarnación,2021-09-19
+C000521,Ana Fretes Rojas,2781007,,1983-12-11,(0971) 194019,,Avenida Mariscal López 1934,Luque,2020-07-10
+C000136,Diego Báez Samudio,6830305,6830305-0,1986-01-24,(0986) 778242,diego.baez@hotmail.com,Avda. España 2226,Ciudad del Este,2022-05-31
+C000471,ruben torres insfran,6758083,,1987-01-30,0981 482 230,ruben.torres@outlook.com,Avda. Mariscal López 2769,Ciudad del Este,2019-10-17
+C000350,rosa duarte lopez,6.315.370,6315370-0,1975-02-01,0972 155 034,rosa.duarte@hotmail.com,Calle Independencia 946,SAN LORENZO,2024-06-19
+C000270,DERLIS GIMÉNEZ VILLALBA,7251683,7251683-6,1998-04-04,0982684449,derlis.gimenez@outlook.com,Calle Cerro Corá 3542,Encarnación,2024-10-31
+C000846,ANNA KARINA ROMMERO ROMERO,0,7676253-0,1950-11-28,0989870048,anna.rommero@outlook.com,Calle Cerro Corá 3915,San lorenzo,2023-03-16
+C000788,Natalia Sofía Fretes Torres,2.527.559,2527559-3,1974-08-03,0976 389 137,NATALIA.FRETES@GMAIL.COM,AVENIDA MADAME LYNCH 2010,Encarnación,2023-03-20
+C000099,"BENÍTEZ CABRERA, JOSÉ FABIOLA",1.123.685,1123685-0,1994-09-14,0982984074,jose.benitez@gmail.com,Calle Cerro Corá 402,Fernando d.l. Mora,2018-03-26
+C000600,Sofía Insfrán Giménez,1027675,1027675-0,1962-09-19,0977 300 074,sofia.insfran@hotmail.com,AVENIDA EUSEBIO AYALA 2257,Asunción,2023-04-10
+C000627,"GIMÉNEZ FRETES, LUIS LIZ",6.583.254,,1964-03-20,+595982258358,luis.gimenezempresa.com.py,Avda. Eusebio Ayala 3926,Asunción,2023-06-24
+C000755,Liz Vera Ortiz,3041317,,1958-08-02,0972 813 222,liz.vera@gmail.com,Calle Palma 451,Encarnación,2018-06-27
+C000552,ANA BÁEZ ROJAS,4050039,,1954-05-30,+595982068097,ana.baez@hotmail.com,Avda. Mariscal López 2045,Fernando de la Mora,2024-01-16
+C000193,diego liz romero benitez,6511294,6511294-6,1955-03-28,(0977) 276453,diego.romero@outlook.com,AVENIDA MARISCAL LÓPEZ 1969,Encarnación,2019-07-02
+C000825,KARINA JOSÉ GONZÁLEZ GIMNEZ,2097625,2097625-9,1956-12-31,+595987389948,,C/ Palma 3101,Luque,2020-01-11
+C000151,DIEGO LUIS ESCOBAR TORRES,6836058,,1998-03-01,0974867021,,Avenida Eusebio Ayala 2712,Fernando de la Mora,2023-11-13
+C000210,"SAMUDIO VERA, ROSA",3.126.620,,1961-07-22,+595986699386,rosa.samudio@gmail,Avenida Eusebio Ayala 840,Capiatá,2022-09-19
+C000624,Liz Derlis Cabrera Fretes,2843942,,1970-01-13,0971 251 567,liz.cabrera@hotmail.com,Calle Independencia 2535,SAN LORENZO,2022-09-20
+C000457,"CABRERA CÁCERES, LUIS",3333237,,1963-02-16,0981 346 439,luis.cabreragmail.com,Calle Independencia 1085,Asunción,2023-10-30
+C000524,Lorena Carlos Insfrán Insfrán,7149415,7149415-4,1963-07-23,0979 935 833,LORENA.INSFRAN@OUTLOOK.COM,Avenida Eusebio Ayala 430,Lambaré,2018-09-08
+C000353,Carlos Rubén Acosta Britez,0,5449647-0,1972-02-04,0974 646 124,,Avenida Mariscal López 3184,Lambaré,2019-01-10
+C000080,Carlos Karina Báez López,5.023.735,,1967-02-12,+595983759816,,Avenida Mariscal López 2835,Capiatá,2020-04-13
+C000664,"FRETES AYALA, DIEGO LORENA",7.871.460,7871460-5,1997-01-30,(0988) 735431,diego.fretes@outlook.com,Avenida Mariscal López 2843,Lambaré,2021-09-06
+C000813,Sfía Derlis Britez López,,1054043-1,1997-03-04,0988 837 089,sfia.britez@gmail.com,CALLE CERRO CORÁ 451,C. del Este,2020-02-20
+C000729,Lorena Diego Acosta Villalba,4.890.083,4890083-4,1964-03-02,+595983604474,lorena.acosta@gmail.com,C/ Cerro Corá 1388,Capiatá,2018-01-08
+C000368,"TORRES VERA, DERLIS",0,,1979-04-14,0974 047 735,derlis.torres@gmail,CALLE CERRO CORÁ 1284,San Lorenzo,2024-03-27
+C000104,LUIS NATALIA TORRES ROMERO,7720524,,1958-06-20,0975 610 055,luis.torres@gmail,Avenida Madame Lynch 1490,asunción,2021-11-06
+C000605,karina gimenez caceres,2654625,2654625-6,1974-12-06,0980 916 778,,Calle Palma 1235,Fernando de la Mora,2020-06-17
+C000227,Rubén Martínez Báez,1.286.891,1286891-4,1962-01-01,0980747788,RUBEN.MARTINEZ@EMPRESA.COM.PY,Avenida Madame Lynch 3757,Capiatá,2019-03-22
+C000765,"TORRES FRETES, MIGUEL CARLOS",3231056,3231056-0,1985-05-14,0977 257 094,miguel.torres@gmail.com,C/ Independencia 2549,Lambaré,2023-06-02
+C000308,lorena juan acosta fretes,6169218,,1960-07-28,0985 422 949,lorena.acosta@outlook.com,Avda. Mariscal López 318,Asuncion,2019-10-11
+C000156,Lorena Rosa González Villalba,1.634.004,1634004-3,1968-05-31,0987 916 534,lorena.gonzalez@gmail,Avda. Mariscal López 3776,Capiatá,2019-11-13
+C000126,"AYALA TORRES, LIZ",5563777,5563777-9,1965-12-27,0973334594,liz.ayala@gmail,Avenida Madame Lynch 2488,Encarnación,2018-03-27
+C000146,José Giménez Ortiz,4.729.401,4729401-9,1963-03-24,0976 497 548,jose.gimenezgmail.com,C/ Palma 2550,Lambaré,2021-07-07
+C000450,"AYALA BRITEZ, CARLOS MIGUEL",5645711,,1954-08-06,0986 390 138,carlos.ayala@hotmail.com,C/ Independencia 221,Fdo. de la Mora,2022-07-17
+C000409,Ana Britez Ayala,6554908,6554908-2,1996-07-07,(0979) 325057,ana.britez@hotmail.com,Avda. España 3077,Ciudad del Este,2024-07-22
+C000333,"BÁEZ ACOSTA, LIZ",1560680,,1961-09-13,0987026743,liz.baezoutlook.com,C/ Cerro Corá 1616,Lambaré,2021-12-22
+C000462,"LÓPEZ BENÍTEZ, GUSTAVO DERLIS",1188212,1188212-3,1959-08-24,(0979) 770566,gustavo.lopez@outlook.com,Avda. España 3488,Fernando de la Mora,2023-05-24
+C000121,Fabiola Fabiola Torres Fretes,6278301,,1995-08-06,+595973998723,fabiola.torres@gmail,Avenida Madame Lynch 3724,CDE,2023-04-10
+C000573,diego insfran torres,3.693.497,3693497-6,1979-04-29,0971224006,diego.insfran@empresa.com.py,Avenida Madame Lynch 1924,Asuncion,2023-09-05
+C000751,Karina María González Escobar,0,5256613-7,1983-10-31,0988 003 906,,C/ Independencia 2002,SAN LORENZO,2021-08-18
+C000886,sfia acosta vra,2895779,,1970-01-27,0986604644,SFIA.ACOSTA@EMPRESA.COM.PY,Calle Independencia 1113,Fernando de la Mora,2022-08-24
+C000434,Diego Duarte Britez,6.789.394,6789394-5,1960-01-21,0975677627,diego.duarte@gmail.com,Avenida Madame Lynch 548,Capiatá,2021-12-14
+C000898,Nataila Luis Giménez Ayala,,4788598-0,1989-06-19,+595976778181,nataila.gimenez@gmail.com,CALLE INDEPENDENCIA 3491,Capiatá,2025-12-26
+C000073,JOSÉ BENÍTEZ GIMÉNEZ,0,,1994-11-23,0981 457 413,,CALLE PALMA 1664,Encarnación,2024-11-26
+C000203,María Vera López,3727137,3727137-7,1965-01-26,0977 603 263,maria.vera@gmail,Avenida Mariscal López 3570,Encarnación,2019-06-11
+C000658,María Vera Britez,5474451,,1993-05-31,975587,maria.vera@outlook.com,Avda. España 957,Capiatá,2020-04-18
+C000278,"SAMUDIO GONZÁLEZ, SOFÍA LORENA",4479179,4479179-8,1997-01-20,0977021772,,Avda. Mariscal López 2734,Encarnación,2021-04-14
+C000910,Sofía Juan Benítez Vilalba,7.371.633,7371633-2,1975-04-11,0973 732 604,sofia.benitez@empresa.com.py,Avda. Madame Lynch 3613,Fernando d.l. Mora,2025-06-04
+C000362,Liz Cáceres Martínez,6.634.859,6634859-5,1968-08-29,0975 907 588,,Calle Independencia 2266,Fernando de la Mora,2022-05-08
+C000895,Natalia Martínez Fretes,,4364792-8,1985-12-12,0978974706,NATALIA.MARTINEZ@OUTLOOK.COM,Avenida Madame Lynch 1238,Encarnación,2024-02-26
+C000191,Miguel Derlis Fretes Acosta,5797066,,1956-07-05,+595982314386,miguel.fretes@outlook.com,Avenida España 1206,San Lorenzo,2019-01-15
+C000288,Derlis Fretes Cabrera,3202735,,1994-08-23,(0983) 225790,derlis.fretes@gmail.com,AVENIDA ESPAÑA 1513,Asunción,2019-10-18
+C000734,GUSTAVO GONZÁLEZ ROJAS, 3350519 ,,1995-12-14,(0986) 573011,gustavo.gonzalez@outlook.com,Avenida Mariscal López 2941,Luque,2024-11-23
+C000274,Rubén Lorena Samudio Insfrán, 6407966 ,,1965-05-29,982624,RUBEN.SAMUDIO@OUTLOOK.COM,Avenida Eusebio Ayala 1173,Ciudad del Este,2018-05-19
+C000313,luis rosa britez villalba,1139037,,1982-11-18,0987 522 706,LUIS.BRITEZ@OUTLOOK.COM,CALLE PALMA 2298,Ciudad del Este,2019-03-11
+C000487,"LÓPEZ CABRERA, KARINA LORENA",2.005.493,,1994-09-05,0981883109,KARINA.LOPEZ@GMAIL.COM,Avenida Madame Lynch 2136,Capiatá,2023-02-22
+C000449,Sofía Miguel López Fretes,4874065,,1956-01-03,0984 238 325,sofia.lopez@empresa.com.py,Avenida Mariscal López 900,Capiatá,2022-07-20
+C000586,Derlis Escobar Benítez,2972032,,1971-08-28,0977672500,DERLIS.ESCOBAR@EMPRESA.COM.PY,Calle Cerro Corá 2169,San Lorenzo,2021-11-26
+C000594,LIZ ANA DUARTE ROJAS,1740886,,1958-02-16,0973983930,LIZ.DUARTE@HOTMAIL.COM,Avenida Mariscal López 3715,Lambaré,2020-01-14
+C000312,Natalia Fabiola Giménez Samudio,6910043,6910043-8,1969-03-05,(0979) 759089,natalia.gimenez@gmail,Avenida Mariscal López 1538,Luque,2022-06-16
+C000777,ANA DERLIS LÓPEZ CÁCERES,2573097,,1996-02-15,0979365197,ana.lopez@empresa.com.py,Avda. Eusebio Ayala 2604,Capiatá,2020-06-05
+C000822,Deigo Báe Samudio,,6830305-0,1986-01-24,0986 778 242,DEIGO.BAE@GMAIL.COM,Avenida España 2226,Ciudad del Este,2022-10-26
+C000184,Juan Sofía Giménez Britez,3655193,3655193-7,1958-10-23,0979039491,juan.gimenez@outlook.com,Calle Palma 996,Encarnación,2023-12-07
+C000307,Rubén Liz Báez Samudio, 4929185 ,,1997-06-12,0978587172,ruben.baez@empresa.com.py,Calle Independencia 3466,Capiatá,2020-01-24
+C000612,"VERA BRITEZ, GUSTAVO",7787239,,1977-10-05,0986966421,,Calle Cerro Corá 858,Encarnación,2024-02-16
+C000129,fabiola rojas cabrera,6916158,,1989-07-19,0977 470 395,fabiola.rojas@empresa.com.py,CALLE PALMA 967,Fernando de la Mora,2020-03-05
+C000036,Karina Ana Escobar Rojas,3304403,,1968-04-30,0976 028 657,karina.escobar@hotmail.com,Calle Cerro Corá 2329,Asunción,2020-12-22
+C000569,DERLIS CARLOS ORTIZ BÁEZ,3897275,3897275-1,1998-05-24,0978927158,DERLIS.ORTIZ@EMPRESA.COM.PY,Calle Cerro Corá 2823,Encarnación,2021-05-17
+C000161,José María Romero Báez,5235165,,1970-06-30,0974084058,jose.romeroempresa.com.py,Avda. España 2547,S. Lorenzo,2023-03-22
+C000657,"BRITEZ BENÍTEZ, SOFÍA",5215417,,1982-01-11,0977 897 974,sofia.britez@gmail.com,Avenida Madame Lynch 1841,Lambaré,2018-10-31
+C000390,Gustavo Rubén Torres López,6818721,,1962-05-16,0975198774,gustavo.torres@gmail.com,Avenida Madame Lynch 414,San lorenzo,2022-09-29
+C000402,Sofía López Benítez,6593716,,1950-10-01,0980 373 268,SOFIA.LOPEZ@OUTLOOK.COM,Avenida Eusebio Ayala 2429,C. del Este,2020-07-23
+C000873,LOENA TORRES RETES,,,1973-12-29,0978888108,loena.torresempresa.com.py,Avenida España 1905,Capiatá,2020-09-23
+C000011,LUIS BENÍTEZ GIMÉNEZ,2719152,2719152-4,1990-12-19,+595982289929,,Avenida Eusebio Ayala 3805,Asunción,2020-06-18
+C000212,FABIOLA VILLALBA BENÍTEZ,7776900,,1999-07-02,973735,fabiola.villalba@gmail.com,Calle Independencia 844,Fernando de la Mora,2023-08-07
+C000903,"DUARTE ROMERO, GUSTAVO LORENA",,,,0975966433,gustavo.duarte@gmail.com,Avenida España 3527,C. del Este,2021-03-27
+C000902,Drelis Fretes Saumdio,6878669,6878669-7,1957-11-30,0974976969,drelis.fretes@empresa.com.py,Avenida España 2520,Fernando d.l. Mora,2024-12-25
+C000310,Rosa Romero Acosta,5099159,,1985-07-22,978607,,C/ Cerro Corá 743,Capiatá,2022-07-15
+C000824,"CÁCERSE ROMERO, DERILS",1375527,1375527-7,1960-01-19,0983917102,DERILS.CACERSE@OUTLOOK.COM,Avenida Eusebio Ayala 2794,Capiatá,2025-03-07
+C000087,José Miguel López Insfrán,2.181.452,2181452-0,1979-02-23,0972 370 871,,Avenida España 1304,Ciudad del Este,2019-05-21
+C000709,Sofía Fabiola Rojas Martínez,1886087,,1956-12-22,(0977) 483502,SOFIA.ROJAS@GMAIL.COM,Avenida Mariscal López 2266,Luque,2022-01-12
+C000107,"SAMUDIO TORRES, ROSA KARINA",6448813,,1981-11-01,(0986) 778272,rosa.samudio@gmail.com,Avda. España 3422,Encarnación,2019-11-18
+C000229,Luis Derlis Cáceres Rojas,5087614,,1970-05-18,(0976) 284752,luis.caceres@hotmail.com,Calle Palma 845,Lambaré,2021-06-02
+C000535,José Fretes Vera,4576561,,1964-12-25,(0986) 682038,JOSE.FRETES@GMAIL.COM,AVENIDA ESPAÑA 460,Capiatá,2021-10-11
+C000213,MIGUEL CARLOS INSFRÁN SAMUDIO,5771773,5771773-7,1958-12-22,0988605091,MIGUEL.INSFRAN@GMAIL.COM,Avenida Eusebio Ayala 438,Asunción,2024-03-30
+C000232,"INSFRÁN FRETES, LORENA NATALIA",5992190,,1968-03-03,0973365216,lorena.insfran@outlook.com,Calle Independencia 1819,Fernando de la Mora,2018-02-12
+C000117,MIGUEL MIGUEL BÁEZ DUARTE,1169627,,1968-05-02,0973721000,MIGUEL.BAEZ@EMPRESA.COM.PY,C/ Independencia 3738,Luque,2024-06-23
+C000240,"FRETES SAMUDIO, DERLIS",6878669,6878669-7,1957-11-30,(0974) 976969,derlis.fretes@gmail,AVENIDA ESPAÑA 2520,Fernando de la Mora,2024-09-16
+C000415,"ESCOBAR FRETES, MIGUEL", 7837058 ,7837058-2,1985-11-08,0985 606 118,miguel.escobar@gmail.com,Avenida España 2332,Capiatá,2024-12-02
+C000602,Carlos Diego Escobar Rojas,1.678.985,1678985-7,1956-04-26,0975665071,,Calle Palma 194,Fernando de la Mora,2021-07-20
+C000671,ROSA FRETES GIMÉNEZ,1.504.882,1504882-9,1969-08-29,0973050291,,C/ Palma 3920,San Lorenzo,2018-12-31
+C000533,Miguel Carlos Giménez Rojas,6257120,,1950-09-14,(0984) 363680,miguel.gimenez@gmail.com,Calle Cerro Corá 1865,FERNANDO DE LA MORA,2018-04-13
+C000437,Miguel Romero Torres,5543717,5543717-6,1998-07-09,0983076166,,Calle Palma 1192,CDE,2021-01-14
+C000118,Diego Karina Vera Insfrán,3447680,3447680-6,1996-05-29,0978 632 506,diego.veragmail.com,Avda. España 2593,San Lorenzo,2024-09-27
+C000340,Luis Villalba Escobar,2483200,2483200-6,1968-10-03,+595973317718,,Avenida España 3993,San Lorenzo,2023-11-10
+C000752,"VILLALBA GONZÁLEZ, ROSA",1635481,1635481-8,1991-01-30,+595971866245,rosa.villalba@outlook.com,Avda. España 3691,Capiatá,2023-06-23
+C000084,Lorena Sofía Insfrán Martínez,4.025.340,,1993-03-24,0982 501 602,lorena.insfran@hotmail.com,Calle Independencia 1859,Encarnación,2023-03-31
+C000811,Fabiola Escobar Escobar,,7259581-7,1989-12-14,971797,FABIOLA.ESCOBAR@EMPRESA.COM.PY,Avda. Eusebio Ayala 1120,San Lorenzo,2025-04-14
+C000418,Karina Samudio Cabrera,7.757.410,,1978-04-28,(0984) 687493,karina.samudiohotmail.com,Avenida Mariscal López 1183,Ciudad del Este,2023-08-21
+C000800,Rubén Britez Villalba, 3741393 ,,1964-01-29,0975502146,RUBEN.BRITEZ@EMPRESA.COM.PY,Calle Cerro Corá 1740,Luque,2021-07-08
+C000883,Liz Cáceres Rojas,,,1993-08-25,0973298785,liz.caceres@empresa.com.py,Calle Palma 1846,Lambaré,2023-05-31
+C000911,JUAN TORRES VILLALBA,,1990902-0,1967-06-01,0977 224 425,JUAN.TORRES@HOTMAIL.COM,Avenida Madame Lynch 356,asunción,2020-06-29
+C000225,maria gimenez fretes,1.797.994,1797994-3,1995-10-28,0982894223,maria.gimenez@outlook.com,Avenida Eusebio Ayala 3062,San Lorenzo,2018-07-05
+C000639,"GIMÉNEZ TORRES, GUSTAVO",4642832,,1982-01-02,0984 170 955,gustavo.gimenez@outlook.com,Avda. España 3592,Luque,2024-03-28
+C000548,Luis Romero González,7.749.655,7749655-8,1994-03-06,0978281152,LUIS.ROMERO@OUTLOOK.COM,C/ Independencia 3623,Asuncion,2019-08-23
+C000490,RUBÉN ROJAS DUARTE, 5314494 ,5314494-5,1988-01-09,0972927500,ruben.rojas@empresa.com.py,Calle Palma 1775,Ciudad Del Este,2020-05-30
+C000383,KARINA FRETES ROJAS,3385413,,1986-04-01,0972809217,,C/ Cerro Corá 3808,Lambaré,2020-01-04
+C000453,"ACOSTA BÁEZ, RUBÉN DIEGO",4.349.588,4349588-5,1991-06-06,+595975932540,ruben.acosta@empresa.com.py,Avenida España 3801,Capiatá,2019-08-31
+C000858,natalia gonzaleez ayala,5.680.213,5680213-7,1991-07-20,+595985007399,natalia.gonzaleez@empresa.com.py,Calle Cerro Corá 1727,Luque,2023-03-15
+C000426,MIGUEL BÁEZ MARTÍNEZ,6620429,6620429-1,1984-06-20,0985 509 656,MIGUEL.BAEZ@GMAIL.COM,AVENIDA MARISCAL LÓPEZ 105,Fdo. de la Mora,2019-08-22
+C000869,Cralos Acosta Cáceres,6372602,,1964-12-15,0983 114 601,cralos.acosta@gmail.com,AVENIDA ESPAÑA 3872,Ciudad del Este,2024-11-23
+C000682,Derlis Acosta Rojas,1984926,,1997-04-21,0972 590 931,,AVENIDA MADAME LYNCH 2679,Lambaré,2022-10-06
+C000387,KARINA LUIS BÁEZ ROMERO,1951873,,1978-11-10,+595985853749,karina.baez@empresa.com.py,Avda. España 1250,Fdo. de la Mora,2018-11-27
+C000364,Fabiola José Villalba Rojas,7.484.447,7484447-4,1974-01-01,0982452588,fabiola.villalba@empresa.com.py,C/ Palma 2198,Lambaré,2018-08-10
+C000466,"BENÍTEZ VILLALBA, LORENA",7313205,7313205-5,1974-01-06,976561,lorena.benitez@empresa.com.py,Avda. Eusebio Ayala 1832,Fernando d.l. Mora,2023-08-20
+C000653,CARLOS SOFÍA AYALA GONZÁLEZ,0,,1964-11-13,0979 475 754,,Avenida Mariscal López 412,San Lorenzo,2018-08-13
+C000343,Liz Escobar González,4911415,4911415-8,1957-02-06,0986731511,liz.escobar@empresa.com.py,Calle Palma 2805,Luque,2022-10-05
+C000606,Derlis Lorena Villalba Báez, 6517712 ,6517712-6,1983-05-01,0985590752,,C/ Palma 132,Luque,2023-09-22
+C000101,ROSA CÁCERES VERA,4788202,,1968-09-26,0972861000,rosa.caceres@outlook.com,C/ Palma 2131,Ciudad del Este,2023-03-11
+C000836,AAN RUBÉN ACOSTA BRITEZ,6.918.341,,1958-07-19,0987628821,aan.acosta@gmail,Calle Palma 3353,Luque,2023-09-21
+C000078,Carlos Juan González Villalba,3242305,3242305-5,1973-12-04,0987 542 007,carlos.gonzalez@empresa.com.py,C/ Independencia 3494,Luque,2023-05-27
+C000289,LORENA GONZÁLEZ GIMÉNEZ,6.917.917,6917917-4,1987-12-23,984087,,C/ Cerro Corá 1855,Capiatá,2018-01-31
+C000285,Derlis Benítez Fretes,5319922,,1968-03-02,976097,derlis.benitez@hotmail.com,Calle Palma 2925,Luque,2018-05-01
+C000007,"ESCOBAR SAMUDIO, MIGUEL",7542724,7542724-9,1992-03-20,+595982197132,miguel.escobar@outlook.com,CALLE CERRO CORÁ 775,Encarnación,2022-09-26
+C000249,"TORRES GIMÉNEZ, LIZ CARLOS",5084472,,1969-03-02,0979056847,liz.torres@empresa.com.py,Avenida España 3200,Asu,2024-12-24
+C000500,sofia lopez rojas,4049543,,1958-04-26,0972 643 250,sofia.lopez@empresa.com.py,Calle Independencia 1997,Capiatá,2021-01-18
+C000048,Miguel Martínez Torres,3617109,3617109-3,1994-07-18,(0982) 320426,miguel.martinez@gmail,CALLE CERRO CORÁ 1977,San Lorenzo,2020-06-06
+C000753,"TORRES INSFRÁN, FABIOLA",6974012,,1956-06-24,(0987) 960656,fabiola.torres@empresa.com.py,C/ Cerro Corá 562,Asu,2022-02-15
+C000821,Faabiola Rojas Rojas,4298235,,1998-08-22,0988995667,,Avenida Madame Lynch 1194,SAN LORENZO,2025-11-05
+C000841,Gusavo Torres Acossta,,1919593-9,1955-03-06,0978141485,GUSAVO.TORRES@GMAIL.COM,Avenida España 2404,Capiatá,2024-11-08
+C000792,carlos maria rojas duarte,6229862,,1972-02-03,0972699492,CARLOS.ROJAS@GMAIL.COM,CALLE PALMA 1498,ASUNCIÓN,2021-11-08
+C000782,Ana Ana Villalba Insfrán,1492697,1492697-0,1957-06-06,0984157107,ana.villalba@gmail.com,Avda. Mariscal López 3944,Ciudad del Este,2023-01-27
+C000189,SOFÍA ACOSTA VERA,2895779,,1970-01-27,(0986) 604644,sofia.acosta@empresa.com.py,C/ Independencia 1113,Fernando de la Mora,2021-11-07
+C000745,José Rosa Insfrán Cáceres,6541422,6541422-5,1988-01-27,0989474974,jose.insfran@hotmail.com,AVENIDA MARISCAL LÓPEZ 3830,Lambaré,2021-06-26
+C000256,Liz Benítez González,5624974,,1969-12-25,+595985308161,liz.benitezgmail.com,Calle Cerro Corá 2333,Capiatá,2020-04-11
+C000255,Derlis Fretes Acosta,1.116.440,1116440-9,1998-09-30,0976178404,derlis.fretes@hotmail.com,Avenida España 1777,San Lorenzo,2023-10-10
+C000515,Rubén Insfrán Escobar,1232438,1232438-8,1954-04-18,0981 014 333,RUBEN.INSFRAN@OUTLOOK.COM,C/ Independencia 3790,Luque,2021-11-18
+C000336,Lorena Vera Insfrán,3479003,,1974-07-22,0984 440 757,lorena.veraempresa.com.py,Calle Cerro Corá 2799,San Lorenzo,2024-03-06
+C000175,miguel karina benitez baez,2.850.359,,1974-02-06,(0976) 323452,,Avenida Eusebio Ayala 2795,San lorenzo,2022-07-01
+C000878,Naalia Martínez Fretes,,1305218-7,1966-12-05,0973495371,naalia.martinezgmail.com,AVENIDA ESPAÑA 2045,Lambaré,2019-10-13
+C000484,Miguel Diego Ortiz Ortiz,4684780,4684780-4,1993-01-29,+595980576433,miguel.ortiz@empresa.com.py,Calle Independencia 432,SAN LORENZO,2023-07-03
+C000138,Derlis Miguel Vera Romero,5210319,5210319-6,1970-11-24,0972948724,derlis.vera@gmail.com,C/ Cerro Corá 3444,Encarnación,2020-12-05
+C000652,liz villalba gimenez,3.003.745,3003745-0,1980-10-31,0974 942 666,liz.villalba@hotmail.com,Avda. Eusebio Ayala 1708,Fernando de la Mora,2018-05-18
+C000715,"ACOSTA ROJAS, ROSA GUSTAVO", 5398332 ,5398332-7,1982-01-15,0979 915 212,,Calle Cerro Corá 3743,San Lorenzo,2020-05-14
+C000662,"GIMÉNEZ ROMERO, MARÍA LIZ",3051792,3051792-3,1994-06-04,0986209976,,Avenida Eusebio Ayala 3085,Asunción,2024-06-15
+C000708,Liz Ana Escobar López, 6946641 ,6946641-6,1956-11-20,(0987) 240925,liz.escobar@empresa.com.py,Avenida Eusebio Ayala 3378,Lambaré,2022-04-29
+C000767,jose luis ayala ortiz,7080856,7080856-2,1970-07-18,0977075011,jose.ayala@outlook.com,Avenida Madame Lynch 1413,Capiatá,2021-06-02
+C000633,María Martínez López,6173599,6173599-0,1955-07-28,0988 821 647,MARIA.MARTINEZ@EMPRESA.COM.PY,Avenida Madame Lynch 603,Capiatá,2022-09-10
+C000502,José Miguel Rojas Cabrera,1.431.664,,1971-11-30,0988 619 066,jose.rojas@gmail,Avda. España 1356,Lambaré,2018-07-03
+C000168,Lorena Lorena Britez López,5784283,,1958-03-11,0979395870,lorena.britez@outlook.com,AVENIDA MARISCAL LÓPEZ 3670,Asunción,2018-08-09
+C000526,Rubén Rosa Fretes Britez,5.153.028,,1983-12-29,+595979622351,ruben.fretes@gmail,Calle Independencia 3609,Lambaré,2023-05-15
+C000072,FABIOLA BENÍTEZ INSFRÁN,4619064,,1969-07-21,0973635614,fabiola.benitez@empresa.com.py,Avenida Mariscal López 1651,Encarnación,2021-10-23
+C000885,José eDrlis Insfrán Freetes,7749793,,1972-03-24,+595975176016,jose.insfran@gmail.com,Avenida Eusebio Ayala 810,Capiatá,2025-05-31
+C000905,Fabiola Fabbiola Benítez Cabrera,4.503.068,,1980-09-27,+595988463940,fabiola.benitez@outlook.com,Avenida España 2669,San Lorenzo,2020-12-28
+C000250,MARÍA RUBÉN CÁCERES ROJAS,3116142,3116142-1,1997-09-18,(0986) 662468,,Avenida Mariscal López 2828,Ciudad del Este,2024-03-21
+C000787,"BRITEZ ESCOBAR, DIEGO FABIOLA",2145984,2145984-3,1966-09-28,+595988829273,,Avenida España 3597,Encarnación,2024-11-13
+C000226,Rosa Rojas Duarte,2.349.873,,1972-12-30,+595989267704,rosa.rojas@gmail.com,Calle Cerro Corá 1842,Lambaré,2019-04-28
+C000583,"ACOSTA VERA, ROSA CARLOS",4.091.249,4091249-3,1963-06-02,+595973052888,rosa.acosta@gmail.com,CALLE INDEPENDENCIA 612,Asunción,2023-04-28
+C000033,Diego Carlos Giménez Acosta,3.189.681,,1952-05-18,(0979) 081845,diego.gimenez@empresa.com.py,C/ Cerro Corá 1906,Encarnación,2022-10-03
+C000458,Lorena Rubén Romero Rojas,4614079,4614079-4,1957-10-04,(0986) 245841,lorena.romero@empresa.com.py,Calle Independencia 1366,Luque,2024-01-05
+C000820,LIZ NATLIA LÓPEZ ROMERO,6.831.531,6831531-9,1987-01-29,0988730433,liz.lopez@outlook.com,Calle Cerro Corá 2011,Capiatá,2026-03-27
+C000254,Rosa Diego González Acosta,1340300,1340300-1,1986-04-05,0986 545 003,,Avenida Madame Lynch 1398,Luque,2024-12-24
+C000523,karina gonzalez villalba,5877116,5877116-6,1968-03-22,+595976374291,,Calle Cerro Corá 1136,Luque,2018-01-16
+C000065,"AYALA ROJAS, ROSA KARINA",5081565,5081565-2,1965-06-09,0973 064 475,rosa.ayala@empresa.com.py,Calle Palma 3781,Luque,2018-11-03
+C000843,Rosa Insfrán Martínez,,1974256-8,,0989530063,rosa.insfran@empresa.com.py,C/ Cerro Corá 1289,Encarnación,2024-08-25
+C000810,Rosa Benítez Vera,7265287,7265287-0,1959-01-25,+595987805261,rosa.benitez@gmail.com,Avenida España 3981,Capiatá,2023-11-17
+C000438,SOFÍA BENÍTEZ BRITEZ,1466175,1466175-6,1974-07-04,+595974034290,sofia.benitez@outlook.com,AVENIDA ESPAÑA 219,Lambaré,2018-06-16
+C000059,"ROMERO GONZÁLEZ, JUAN GUSTAVO",5156981,,1995-10-11,(0989) 758952,juan.romero@empresa.com.py,Avda. España 3099,Ciudad del Este,2020-11-16
+C000559,Juan Acosta Escobar,5845622,5845622-8,1959-12-03,0988469385,juan.acosta@gmail.com,C/ Cerro Corá 2042,San Lorenzo,2019-08-25
+C000839,"VILLALBA BRITEZ, JUAN",,7219223-2,1964-03-30,(0989) 937524,juan.villalbagmail.com,Avenida Mariscal López 3696,San Lorenzo,2023-01-11
+C000021,Ana Diego Benítez Vera,2101993,2101993-2,1954-04-21,0984536740,,Avenida España 2698,Luque,2024-04-07
+C000488,DIEGO JOSÉ ACOSTA VERA,0,,1999-09-19,0982977037,diego.acosta@gmail.com,Calle Cerro Corá 3181,San lorenzo,2018-12-05
+C000778,"MARTÍNEZ BENÍTEZ, LIZ",5394782,5394782-9,1971-07-19,0981674863,liz.martinez@outlook.com,Calle Palma 2992,Lambaré,2023-01-20
+C000480,Ana Rubén Acosta Britez,6918341,,1958-07-19,+595987628821,ANA.ACOSTA@OUTLOOK.COM,C/ Palma 3353,Luque,2023-06-23
+C000736,"VILLALBA TORRES, DIEGO",6.245.382,6245382-3,1963-05-07,+595988799536,diego.villalba@gmail,Avda. España 1516,Asunción,2022-08-29
+C000429,Luis Insfrán Giménez,1809923,1809923-8,1983-04-07,0986 936 724,luis.insfran@outlook.com,Avenida Mariscal López 779,Ciudad del Este,2024-04-19
+C000495,Miguel Báez Insfrán,7180135,,1991-07-18,0971322299,miguel.baezgmail.com,Calle Independencia 1337,Fernando de la Mora,2024-04-30
+C000445,María Fretes Ortiz,4532714,,1970-03-09,978514,maria.fretes@empresa.com.py,Avenida Mariscal López 3764,San Lorenzo,2019-07-23
+C000499,Ana Lorena Rojas Britez,3346933,,1997-04-30,0987545138,ana.rojas@hotmail.com,Avenida España 970,Ciudad del Este,2020-09-02
+C000406,Karina José González Giménez,2.097.625,2097625-9,1956-12-31,+595987389948,karina.gonzalez@gmail.com,Calle Palma 3101,Luque,2019-03-29
+C000556,Karina Cabrera Rojas,3116715,3116715-2,1958-01-23,984633,karina.cabrera@hotmail.com,Avenida Mariscal López 3368,Lambaré,2018-05-02
+C000649,"ORTIZ DUARTE, CARLOS RUBÉN",7.316.048,,1994-10-07,+595982828625,carlos.ortiz@outlook.com,Calle Cerro Corá 2964,San Lorenzo,2021-07-04
+C000124,"SAMUDIO SAMUDIO, ROSA",6.511.718,6511718-2,1999-12-18,+595987479427,ROSA.SAMUDIO@OUTLOOK.COM,Calle Independencia 1981,Luque,2020-02-22
+C000396,GUSTAVO CÁCERES VILLALBA,2204340,2204340-3,1957-08-04,0977090541,,Avenida Mariscal López 3795,Asunción,2024-04-18
+C000723,Sofía Benítez Samudio,2.998.719,2998719-9,1993-01-16,+595984954547,sofia.benitez@empresa.com.py,Calle Cerro Corá 524,CDE,2021-09-24
+C000330,ANA GIMÉNEZ VERA,0,5149861-8,1978-06-08,+595979123960,ana.gimenez@gmail.com,Calle Palma 2186,Fernando de la Mora,2020-09-12
+C000328,Natalia Carlos Escobar Escobar,6146277,6146277-9,1964-04-28,0979105198,natalia.escobar@gmail.com,AVENIDA MARISCAL LÓPEZ 2208,Luque,2024-01-15
+C000050,Rosa Sofía Romero López,1887031,1887031-7,1955-05-14,0971265747,,Avda. Eusebio Ayala 1564,San Lorenzo,2021-05-01
+C000041,JUAN SAMUDIO BENÍTEZ, 5763502 ,5763502-1,1999-04-01,0985477607,juan.samudio@gmail.com,Calle Palma 2294,Luque,2020-08-18
+C000739,diego cabrera torres,2430711,2430711-4,1960-06-08,0988 637 030,diego.cabrera@hotmail.com,Avenida España 196,San Lorenzo,2024-03-26
+C000731,Juan Gustavo Vera López,7.318.895,,1959-01-08,+595982455127,juan.vera@outlook.com,Avda. Madame Lynch 2276,Asunción,2023-12-29
+C000108,"BENÍTEZ VERA, NATALIA",1485846,,1968-01-23,+595984587233,natalia.benitez@empresa.com.py,Avenida Madame Lynch 475,Capiatá,2019-08-26
+C000302,GUSTAVO KARINA SAMUDIO CABRERA,5390531,,1951-09-09,0984761495,gustavo.samudio@outlook.com,Avenida Madame Lynch 1663,Luque,2024-08-19
+C000088,"TORRES ACOSTA, GUSTAVO",1.919.593,1919593-1,1955-03-06,+595978141485,gustavo.torres@hotmail.com,Avda. España 2404,Capiatá,2023-08-24
+C000727,Karina Fabiola Martínez Samudio,7.757.278,,1977-11-29,0974 785 319,karina.martinez@empresa.com.py,Calle Independencia 2535,San Lorenzo,2024-08-15
+C000417,gustavo cabrera romero,2715654,,1971-05-15,+595978997649,gustavo.cabrera@gmail,Avda. Madame Lynch 2317,Ciudad del Este,2021-09-11
+C000110,JUAN FABIOLA INSFRÁN MARTÍNEZ,3162950,,1977-04-14,0989 465 789,juan.insfran@gmail.com,Avenida Eusebio Ayala 792,Luque,2021-12-13
+C000042,"LÓPEZ ACOSTA, ROSA MARÍA",7.012.887,7012887-1,1983-01-01,0988747770,rosa.lopez@outlook.com,C/ Cerro Corá 2510,Encarnación,2023-02-10
+C000691,Rubén Britez Giménez,4744506,4744506-8,1975-08-27,(0974) 537724,ruben.britez@empresa.com.py,Avda. España 1323,Lambaré,2022-06-04
+C000796,"ORTIZ TORRES, MARÍA KARINA",7710723,,1961-12-28,0982 784 757,maria.ortizgmail.com,AVENIDA MARISCAL LÓPEZ 2935,Encarnación,2024-11-16
+C000853,MARÍÍA ANA SAMUDIO DUARTE,,,1969-02-09,(0972) 099572,mariia.samudio@gmail.com,CALLE CERRO CORÁ 2943,Ciudad del Este,2024-12-18
+C000115,María María Rojas Cabrera,4402616,,1962-02-08,0980721202,maria.rojas@empresa.com.py,C/ Cerro Corá 2613,Capiatá,2018-07-26
+C000286,José Carlos Samudio Martínez,1152173,1152173-2,1957-08-09,0971131982,JOSE.SAMUDIO@HOTMAIL.COM,Avenida España 533,Asunción,2021-03-10
+C000173,JOSÉ ACOSTA FRETES,7.411.342,,1966-08-14,+595979084827,jose.acosta@gmail.com,Avenida España 2661,Lambaré,2019-01-26
+C000287,Gustavo Gustavo Britez Vera,6.948.207,6948207-1,1952-04-30,972990,gustavo.britez@gmail.com,Avenida Madame Lynch 3887,FERNANDO DE LA MORA,2019-09-14
+C000411,MARÍA AYALA BENÍTEZ,1202433,1202433-3,1997-07-05,0986061691,maria.ayala@hotmail.com,Avenida Madame Lynch 493,Lambaré,2024-05-04
+C000771,Rosa Carlos Benítez Martínez,2018962,2018962-1,1973-07-29,977150,ROSA.BENITEZ@OUTLOOK.COM,Calle Independencia 349,Encarnación,2023-04-21
+C000786,Karina Villalba Vera,1.145.256,,1973-01-27,0980 909 603,,Avenida Mariscal López 1461,Encarnación,2018-01-08
+C000275,"BÁEZ TORRES, JUAN GUSTAVO",6.065.869,6065869-0,1971-08-31,+595986886527,,Avenida Eusebio Ayala 992,Capiatá,2018-03-14
+C000349,diego fabiola baez romero,6.870.478,,1975-04-17,(0986) 434541,diego.baez@outlook.com,Avda. España 3482,Lambaré,2018-12-08
+C000435,DERLIS CARLOS TORRES LÓPEZ,1901476,1901476-7,1951-06-25,0987686039,,Avenida Eusebio Ayala 2320,Asunción,2019-07-10
+C000815,Juan abiola Britez Cabrera,2.270.654,,1988-11-17,0984157600,JUAN.BRITEZ@HOTMAIL.COM,Calle Cerro Corá 2217,Asunción,2021-05-04
+C000356,Sofía Carlos Rojas Cáceres,2598346,2598346-6,1972-12-30,+595977572842,sofia.rojas@outlook.com,CALLE CERRO CORÁ 1060,Lambaré,2023-08-31
+C000746,Fabiola Sofía Martínez Romero,1058769,,1965-03-18,0982 223 808,fabiola.martinez@hotmail.com,Avenida Eusebio Ayala 2506,Encarnación,2018-06-16
+C000848,José Vera Villalba,,6298416-0,1963-07-22,0989433747,jose.vera@hotmail.com,C/ Palma 861,Ciudad del Este,2024-11-05
+C000145,Karina Rubén Benítez Duarte,4757493,,1987-04-12,(0988) 471994,karina.benitez@gmail.com,C/ Palma 2076,Lambaré,2018-06-02
+C000791,Sofía Derlis Báez Ayala,2986824,,1986-04-22,0977749144,sofia.baezhotmail.com,Avenida España 750,Capiatá,2024-05-12
+C000914,Caros Giménez Romero,1.244.295,,1998-06-08,0988 664 908,CAROS.GIMENEZ@HOTMAIL.COM,Avenida Madame Lynch 248,Fernando de la Mora,2021-05-24
+C000164,Derlis Benítez Escobar, 5927396 ,5927396-8,1958-10-12,0985 013 844,,Avenida Eusebio Ayala 3143,Ciudad Del Este,2018-03-28
+C000268,Natalia Cabrera Ayala,7475023,7475023-2,1965-06-17,0987 496 632,natalia.cabrera@outlook.com,Avenida Mariscal López 372,Fernando de la Mora,2022-11-02
+C000298,Derlis Rubén Giménez Cabrera,1.569.046,,1974-04-27,0982 787 503,derlis.gimenez@hotmail.com,Calle Independencia 2338,S. Lorenzo,2022-04-04
+C000092,derlis carlos britez duarte,0,,1969-12-29,0979 795 009,,Avenida Madame Lynch 2164,Ciudad Del Este,2022-03-19
+C000455,NATALIA FABIOLA AYALA TORRES,4660016,4660016-7,1950-05-08,(0988) 548223,natalia.ayala@empresa.com.py,C/ Palma 927,Lambaré,2018-09-10
+C000069,"VILLALBA ORTIZ, CARLOS KARINA",7117516,,1974-08-08,0974 274 468,carlos.villalba@gmail.com,Avda. Eusebio Ayala 1061,C. del Este,2020-01-21
+C000355,Diego Gustavo Romero Samudio,2978033,2978033-0,1982-11-24,0986816838,diego.romero@hotmail.com,Avda. Mariscal López 3085,Luque,2022-04-29
+C000420,Luis Gustavo Rojas Villalba,1377171,,1966-01-16,+595980028760,LUIS.ROJAS@OUTLOOK.COM,Avenida España 3694,Encarnación,2023-09-15
+C000870,LORENA  RUBÉN CÁCERES DUARTE,4817096,,1962-07-17,(0971) 426740,lorena.caceres@empresa.com.py,Avenida Eusebio Ayala 1664,CDE,2020-11-29
+C000674,Sofía González Samudio,2685628,2685628-0,1977-07-26,0973127563,SOFIA.GONZALEZ@OUTLOOK.COM,Avenida Eusebio Ayala 571,Fernando de la Mora,2024-12-28
+C000149,NATALIA FABIOLA ORTIZ MARTÍNEZ,5070757,5070757-4,1952-08-01,+595987585329,natalia.ortiz@gmail.com,Avda. Eusebio Ayala 3710,S. Lorenzo,2022-07-14
+C000785,CARLOS LUIS ROMERO ORTIZ,4.222.003,,1990-06-01,+595975405437,carlos.romero@hotmail.com,Avenida Madame Lynch 2165,Lambaré,2019-11-04
+C000279,Derlis Natalia Giménez Fretes,6.265.751,,1960-06-21,0982579401,derlis.gimenez@gmail.com,AVENIDA MADAME LYNCH 674,San Lorenzo,2020-10-26
+C000781,"FRETES VERA, SOFÍA KARINA",1245836,1245836-8,1954-08-02,0988422074,sofia.fretes@hotmail.com,Avda. España 265,Luque,2022-07-04
+C000386,José Britez Romero,2277217,2277217-0,1955-05-02,(0976) 664405,jose.britez@gmail.com,Avenida España 1072,San Lorenzo,2018-04-30
+C000296,Rosa Romero Fretes,4433364,,1979-01-05,+595975337107,rosa.romero@outlook.com,Avenida Eusebio Ayala 1060,C. del Este,2024-06-21
+C000520,miguel ana ortiz gimenez,1993044,1993044-5,1970-02-22,0982 114 795,miguel.ortiz@outlook.com,C/ Cerro Corá 434,San Lorenzo,2023-12-17
+C000006,Karina Romero López,1877614,1877614-0,1967-03-26,(0972) 836404,,Avenida Mariscal López 3077,Encarnación,2023-06-18
+C000345,Juan Duarte Cáceres,2571598,2571598-4,1984-03-30,0972 426 803,,Avenida Madame Lynch 1919,San Lorenzo,2023-05-18
+C000551,juan villalba britez,7219223,,1964-03-30,+595989937524,,Avda. Mariscal López 3696,San Lorenzo,2021-08-03
+C000326,Diego Benítez Martínez,3.399.058,3399058-1,1959-07-23,0976 983 576,diego.benitez@empresa.com.py,Avenida Eusebio Ayala 2497,Fernando de la Mora,2020-04-21
+C000281,FABIOLA GIMÉNEZ VERA,4698575,,1952-05-17,0988 933 717,fabiola.gimenez@outlook.com,AVENIDA MARISCAL LÓPEZ 3402,C. del Este,2018-12-09
+C000219,Karina Carlos Acosta Ortiz,4579781,,1973-11-06,0982 310 350,,CALLE PALMA 1982,Ciudad del Este,2021-12-03
+C000538,"FRETES GIMÉNEZ, MARÍA ROSA",2059637,2059637-5,1955-05-01,+595989944014,maria.fretes@outlook.com,Avenida España 367,Luque,2023-02-18
+C000413,Lorena Samudio Vera,1146232,1146232-9,1955-03-12,0984348285,lorena.samudio@empresa.com.py,C/ Palma 2360,Ciudad del Este,2020-04-11
+C000082,Derlis Liz Martínez Rojas,2295635,,1970-01-01,0978 221 043,derlis.martinez@empresa.com.py,Avda. Eusebio Ayala 1459,Luque,2020-06-25
+C000178,"GONZÁLEZ AYALA, NATALIA",5680213,,1991-07-20,(0985) 007399,natalia.gonzalez@empresa.com.py,Calle Cerro Corá 1727,Luque,2022-12-07
+C000316,Juan Rosa López Cáceres,6289577,,1974-05-18,+595971306047,,Avenida Madame Lynch 2537,Fernando de la Mora,2024-09-04
+C000294,"LÓPEZ ESCOBAR, FABIOLA RUBÉN",6805744,,1991-10-27,0987 004 500,fabiola.lopez@gmail.com,Avenida Madame Lynch 1364,San Lorenzo,2020-02-10
+C000819,LOORENA MARTÍNEZ BENÍTEZ,,6871242-1,1988-06-04,(0976) 908485,loorena.martinez@empresa.com.py,Calle Cerro Corá 995,Luque,2023-12-22
+C000485,"ESCOBAR ROMERO, RUBÉN",7.207.440,,1963-12-08,0975 365 398,RUBEN.ESCOBAR@OUTLOOK.COM,Calle Palma 1569,Ciudad del Este,2022-06-04
+C000728,Carlos López Torres,4.889.278,,1976-07-24,0979 944 717,CARLOS.LOPEZ@EMPRESA.COM.PY,Avenida Eusebio Ayala 484,San Lorenzo,2023-04-08
+C000666,"ACOSTA ROJAS, DIEGO LORENA",7403924,,1997-04-12,983608,,CALLE INDEPENDENCIA 2596,Capiatá,2024-10-13
+C000262,"FRETES VERA, LUIS JOSÉ",3.240.945,3240945-9,1962-01-07,(0972) 554343,luis.freteshotmail.com,AVENIDA ESPAÑA 2244,Encarnación,2019-04-11
+C000596,"BENÍTEZ FRETES, SOFÍA",3.698.224,,1964-01-23,(0980) 397826,sofia.benitez@empresa.com.py,Avenida Mariscal López 3240,Capiatá,2024-07-10
+C000089,Diego Natalia Fretes González,6.277.069,6277069-1,1958-08-15,+595972833920,,C/ Cerro Corá 1573,Capiatá,2019-11-17
+C000694,sofia ayala gonzalez,6015749,6015749-6,1994-05-11,0973756129,sofia.ayala@outlook.com,Avda. España 692,Asunción,2019-07-25
+C000399,fabiola baez escobar,4968702,,1976-11-10,0981619499,,Calle Cerro Corá 3637,Encarnación,2018-01-07
+C000098,"LÓPEZ LÓPEZ, DERLIS",1883517,,1973-03-06,0977 793 378,derlis.lopez@empresa.com.py,Avda. España 791,Asunción,2021-08-24
+C000852,Lorena Rsoa López Beníítez,5767694,,1954-10-22,0977102709,lorena.lopez@gmail,Avenida Mariscal López 965,San Lorenzo,2024-09-06
+C000678,Rosa Rosa Báez Fretes,2.254.469,,1951-01-28,(0981) 854689,rosa.baez@outlook.com,C/ Independencia 1108,FERNANDO DE LA MORA,2022-09-16
+C000540,"BRITEZ ROMERO, ROSA", 4988326 ,,1962-11-18,0976177026,rosa.britez@gmail,Avenida España 1308,ASUNCIÓN,2018-12-13
+C000375,Sofía Derlis Insfrán Cabrera,2.463.861,2463861-7,1987-01-02,0982523174,SOFIA.INSFRAN@EMPRESA.COM.PY,Avda. España 2801,Encarnación,2022-02-03
+C000317,SOFÍA CARLOS GONZÁLEZ GIMÉNEZ,5.344.404,,1966-09-19,(0985) 685668,SOFIA.GONZALEZ@EMPRESA.COM.PY,Avda. Eusebio Ayala 1275,Luque,2018-05-09
+C000637,Rosa González Duarte,4306120,,1975-10-24,0974 489 306,ROSA.GONZALEZ@EMPRESA.COM.PY,AVENIDA EUSEBIO AYALA 3298,San Lorenzo,2021-03-15
+C000200,"ACOSTA BÁEZ, NATALIA",6380614,,1972-03-03,0982160716,natalia.acosta@gmail,Calle Palma 2020,Capiatá,2022-09-27
+C000067,"GIMÉNEZ GIMÉNEZ, DERLIS GUSTAVO",7786215,,1984-05-31,0971696066,derlis.gimenez@empresa.com.py,AVENIDA EUSEBIO AYALA 2064,SAN LORENZO,2018-04-27
+C000747,LORENA TORRES FRETES,1185891,1185891-5,1973-12-29,(0978) 888108,lorena.torres@gmail,Avda. España 1905,Capiatá,2018-04-21
+C000142,Natalia Ana Cabrera Fretes,4855287,,1981-06-05,(0982) 855323,,Calle Independencia 2254,Encarnación,2018-11-04
+C000419,natalia gonzalez britez,1487157,1487157-2,1991-08-24,0988653419,natalia.gonzalez@gmail.com,Calle Cerro Corá 2059,Encarnación,2018-07-08
+C000531,"DUARTE SAMUDIO, DERLIS",6.684.029,6684029-5,1994-06-18,0971 794 686,,C/ Cerro Corá 994,Fernando d.l. Mora,2021-10-03
+C000754,José Cáceres Torres,2110898,,1978-07-30,0981 150 003,jose.caceres@gmail.com,Avda. Eusebio Ayala 145,Lambaré,2024-03-30
+C000198,Liz Rubén Villalba Fretes,4057339,,1965-05-30,+595977846275,liz.villalba@gmail,Calle Palma 3725,Encarnación,2018-03-18
+C000261,Liz Benítez Acosta,6996708,,1998-11-02,0973911406,LIZ.BENITEZ@GMAIL.COM,C/ Independencia 246,Ciudad del Este,2019-03-29
+C000631,"ROJAS DUARTE, MIGUEL LORENA",6238226,,1977-04-29,0971059163,miguel.rojas@outlook.com,Avenida Madame Lynch 2292,Luque,2019-11-09
+C000263,Sofía Vera Insfrán,1078187,,1970-05-15,(0985) 660604,,Avda. España 1449,Encarnación,2020-03-23
+C000607,"GONZÁLEZ DUARTE, SOFÍA JUAN",1123926,1123926-3,1964-11-21,0980 999 328,sofia.gonzalez@gmail.com,Calle Cerro Corá 2636,San Lorenzo,2022-04-02
+C000170,Karina Benítez Fretes,4368280,,1994-01-31,+595989247242,karina.benitez@empresa.com.py,Avda. Mariscal López 2394,Lambaré,2024-08-24
+C000216,Diego Fabiola Duarte López,7.723.366,,1975-05-13,0979042246,,C/ Cerro Corá 2122,Encarnación,2022-03-10
+C000111,diego gustavo villalba romero,1336223,1336223-2,1952-12-31,0977589606,DIEGO.VILLALBA@OUTLOOK.COM,Avenida Mariscal López 2142,Luque,2023-09-30
+C000530,"BÁEZ CABRERA, LIZ",5055980,,1973-03-27,0988844051,liz.baez@hotmail.com,Calle Cerro Corá 1845,C. del Este,2024-03-15
+C000176,Derlis Ana Giménez González,5688254,5688254-8,1993-04-23,0971 235 074,derlis.gimenez@outlook.com,Calle Independencia 3047,Luque,2019-11-23
+C000252,"ROJAS DUARTE, ROSA GUSTAVO",5811019,5811019-4,1958-09-06,0983 343 292,rosa.rojas@gmail,C/ Cerro Corá 2503,Capiatá,2018-03-13
+C000062,Carlos Martínez Ayala,6465789,,1967-10-26,+595973529902,carlos.martinez@gmail.com,Calle Palma 422,Capiatá,2024-01-13
+C000610,Derlis Carlos Acosta Ortiz,3250827,3250827-1,1978-08-22,+595977316726,derlis.acosta@hotmail.com,AVENIDA MADAME LYNCH 1907,Fernando de la Mora,2022-04-18
+C000424,Sofía Villalba Giménez,3.042.701,3042701-0,1977-10-26,0976 699 235,sofia.villalba@gmail,C/ Cerro Corá 1258,Asunción,2022-01-30
+C000584,lorena jose ayala fretes,1888346,1888346-0,1983-09-14,(0984) 887471,lorena.ayala@hotmail.com,Avenida Madame Lynch 513,Encarnación,2021-04-02
+C000071,Ana Báez Cáceres,7767560,7767560-6,1961-06-27,0974 502 212,ana.baez@empresa.com.py,Avenida España 1642,Luque,2018-03-09
+C000403,SOFÍA LORENA GIMÉNEZ VILLALBA,4667327,4667327-0,1971-01-19,0972701107,,C/ Independencia 1810,Capiatá,2020-09-14
+C000860,soofia lopez rrojas,4049543,4049543-4,1958-04-26,(0972) 643250,soofia.lopez@empresa.com.py,C/ Independencia 1997,Capiatá,2022-04-13
+C000397,NATALIA ACOSTA AYALA,4820321,,1984-04-04,0977 992 076,natalia.acosta@empresa.com.py,Calle Palma 1200,Fernando de la Mora,2021-04-07
+C000712,Liz Gustavo Ortiz Villalba,1542776,1542776-5,1956-02-14,0980 982 165,liz.ortizhotmail.com,Avenida Madame Lynch 1097,Fernando de la Mora,2023-06-12
+C000798,DERLIS MIGUEL VERA CÁCERES,6436867,6436867-0,1982-10-05,0979543469,derlis.vera@outlook.com,Avenida Madame Lynch 2995,Asunción,2021-06-10
+C000323,liz gustavo rojas caceres,2345065,2345065-7,1991-04-16,0980 038 405,LIZ.ROJAS@HOTMAIL.COM,Calle Independencia 1423,Lambaré,2021-07-24
+C000591,LUIS MARÍA DUARTE SAMUDIO,3699901,,1992-12-17,(0981) 420105,luis.duarte@gmail.com,Avenida España 515,Asunción,2020-12-18
+C000483,derlis baez samudio,0,5973860-0,1981-04-29,(0988) 135388,,Calle Independencia 932,Luque,2019-10-18
+C000195,José Cabrera López,4.860.988,4860988-9,1952-08-30,0975 025 740,jose.cabrera@gmail.com,Avenida España 1596,Fernando de la Mora,2023-10-06
+C000091,"BÁEZ GIMÉNEZ, DERLIS KARINA",4218618,,1971-08-16,0971171462,,C/ Independencia 1001,Fernando de la Mora,2018-08-14
+C000865,Natallia Samudio Torrres,6565130,6565130-8,1983-07-10,+595974111790,,Calle Palma 2214,Encarnación,2019-12-13
+C000464,"CABRERA VERA, DIEGO",6088318,,1964-04-11,0983964399,,C/ Cerro Corá 236,Luque,2024-12-25
+C000064,Gustavo Ayala Insfrán,2.697.492,2697492-4,1999-05-17,(0985) 132920,,AVENIDA ESPAÑA 374,Luque,2018-12-19
+C000799,juan torres baez,1647386,,1996-05-29,+595982912450,juan.torresgmail.com,Avenida Mariscal López 3930,San lorenzo,2018-01-06
+C000851,"SAMUDIO DUARTE, ANA",1678041,1678041-8,1950-04-10,+595989393159,ana.samudio@empresa.com.py,CALLE INDEPENDENCIA 2013,Fdo. de la Mora,2022-02-28
+C000587,ROSA DIEGO CABRERA MARTÍNEZ,7.275.310,7275310-2,1972-10-08,0976 031 574,,Avenida Madame Lynch 948,Fernando de la Mora,2023-02-12
+C000432,Ana Natalia Duarte González,6563748,6563748-9,1973-11-08,0980304163,,Avda. Eusebio Ayala 2955,Ciudad del Este,2021-04-04
+C000297,Karina Carlos López Britez,5972832,5972832-9,1987-11-22,0976472088,karina.lopez@empresa.com.py,CALLE INDEPENDENCIA 2172,ASUNCIÓN,2024-09-15
+C000090,Rosa Cabrera Martínez,2.033.082,,1991-05-19,0972432729,,Avenida Eusebio Ayala 1190,Luque,2023-02-08
+C000339,Gustavo Cáceres Cabrera,6.745.546,6745546-8,1993-11-20,0978819980,gustavo.caceres@empresa.com.py,Avenida Mariscal López 1999,Lambaré,2018-08-31
+C000144,Sofía Juan Benítez Villalba,7.371.633,,1975-04-11,+595973732604,,AVENIDA MADAME LYNCH 3613,Fernando d.l. Mora,2024-05-15
+C000341,Lorena Benítez Britez,2346834,,1988-01-31,(0987) 179390,lorena.benitez@hotmail.com,C/ Cerro Corá 3133,Lambaré,2024-01-20
+C000032,"FRETES MARTÍNEZ, LIZ",3541987,,1974-02-10,0986 736 786,liz.fretes@gmail.com,Avenida España 2481,San Lorenzo,2024-03-09
+C000185,Fabiola Acosta Martínez,2.544.113,,1999-04-15,(0986) 227947,fabiola.acosta@empresa.com.py,Calle Palma 637,Asunción,2021-08-10
+C000762,Gustavo Carlos Ayala Britez,4788623,4788623-4,1973-11-15,0989256414,GUSTAVO.AYALA@EMPRESA.COM.PY,Avenida España 1029,Fernando de la Mora,2018-10-25
+C000253,Rubén Samudio Rojas,7665571,7665571-7,1984-12-18,0981673245,ruben.samudiohotmail.com,Avenida Madame Lynch 882,Encarnación,2023-09-05
+C000467,Rubén Fabiola Vera Insfrán,7617829,,1962-03-16,0982543347,,AVENIDA MARISCAL LÓPEZ 2602,Capiatá,2023-04-17
+C000855,"SAMUDOI VILLALBA, ROSA",7712225,7712225-9,1985-06-02,0978308362,rosa.samudoi@gmail.com,Avenida España 2622,Capiatá,2020-07-16
+C000393,José Romero Vera,2395144,,1981-06-11,(0972) 602298,jose.romero@empresa.com.py,Avda. Eusebio Ayala 1500,Luque,2024-02-10
+C000208,María Martínez Duarte,5932793,,1994-03-07,+595977949851,maria.martinez@hotmail.com,C/ Cerro Corá 3906,Asunción,2022-07-15
+C000180,"VERA VILLALBA, JOSÉ",6.298.416,,1963-07-22,0989433747,jose.vera@gmail.com,Calle Palma 861,C. del Este,2024-03-26
+C000479,"FRETES SAMUDIO, LUIS NATALIA",6212776,,1979-09-01,0980019478,luis.fretes@empresa.com.py,Calle Palma 1647,Capiatá,2020-01-03
+C000689,Gustavo Villalba Martínez,4632565,,1979-10-10,0976993098,,Calle Independencia 2450,Ciudad Del Este,2019-02-01
+C000780,luis insfran gonzalez,0,,1992-06-12,0981879131,,Calle Palma 1643,Lambaré,2022-07-31
+C000818,María Vera López,3727137,3727137-7,1965-01-26,0977603263,maria.vera@empresa.com.py,Avda. Mariscal López 3570,Encarnación,2021-09-15
+C000542,LIZ ANA FRETES GIMÉNEZ,4.336.646,,1984-01-20,(0979) 388424,liz.fretes@hotmail.com,C/ Cerro Corá 234,Encarnación,2018-08-10
+C000642,Rosa Fabiola Villalba Vera,1754402,1754402-5,1964-01-27,0975 428 101,rosa.villalba@gmail.com,AVENIDA ESPAÑA 3139,Lambaré,2019-11-20
+C000773,"SAMUDIO CABRERA, JUAN DIEGO",4247701,,1958-10-01,(0979) 377760,juan.samudiohotmail.com,C/ Palma 1093,Luque,2021-12-06
+C000077,Lorena Duarte Cabrera,6.920.161,,1991-09-19,0988 017 018,lorena.duarte@empresa.com.py,Calle Palma 1445,Ciudad del Este,2019-02-04
+C000123,Gustavo López Romero,5639156,5639156-0,1990-07-29,0979793668,gustavo.lopez@empresa.com.py,Avenida Mariscal López 2979,Capiatá,2021-07-30
+C000102,José Ayala Ortiz,1.808.248,,1991-08-17,0975 732 655,jose.ayala@outlook.com,Avda. Madame Lynch 1944,SAN LORENZO,2019-12-07
+C000085,"INSFRÁN GIMÉNEZ, NATALIA LIZ",2.483.804,,1982-04-27,0978908863,natalia.insfran@outlook.com,Calle Cerro Corá 1099,San Lorenzo,2024-02-15
+C000814,RUBÉNDIEGO ACOSTA AYALA,7.575.494,7575494-0,1957-07-12,+595981599599,rubendiego.acosta@empresa.com.py,Avda. España 3987,San Lorenzo,2021-06-12
+C000332,"GIMÉNEZ ROMERO, CARLOS",0,1244295-0,1998-06-08,+595988664908,CARLOS.GIMENEZ@EMPRESA.COM.PY,Avenida Madame Lynch 248,Fernando de la Mora,2020-09-29
+C000835,"CABRERA ORIZ, LUIIS KARINA",4008538,,1966-04-17,0980865741,luiis.cabrera@empresa.com.py,Avenida Madame Lynch 1118,Lambaré,2023-03-25
+C000570,"CÁCERES LÓPEZ, FABIOLA LIZ",1950469,1950469-1,1959-01-27,0977983091,fabiola.caceres@empresa.com.py,Calle Palma 3741,Asunción,2020-07-30
+C000448,sofia benitez duarte,0,1289323-4,1995-11-30,0986838223,SOFIA.BENITEZ@EMPRESA.COM.PY,Avenida España 2656,S. Lorenzo,2021-08-11
+C000505,Luis Cabrera Romero, 1640959 ,,1975-03-24,0972981145,luis.cabrera@hotmail.com,Avenida Eusebio Ayala 1874,Luque,2024-02-29
+C000477,CARLOS MARTÍNEZ ORTIZ,7.468.231,,1980-09-05,+595975090691,carlos.martinez@gmail.com,Calle Independencia 172,San lorenzo,2024-12-22
+C000863,"ACOSTA RITEZ, CARLOS ARÍA",,7181359-4,1997-08-07,0983972407,carlos.acosta@gmail.com,Avenida Mariscal López 3316,Capiatá,2023-11-24
+C000568,Sofía Carlos Britez Cabrera,2452384,,1999-09-15,+595987606529,sofia.britez@hotmail.com,Avenida Mariscal López 2427,Asunción,2019-10-20
+C000132,NATALIA ORTIZ VERA,2.293.318,2293318-2,1966-12-22,0982 662 203,natalia.ortiz@empresa.com.py,Calle Independencia 2870,Lambaré,2019-06-12
+C000465,"ACOSTA BRITEZ, CARLOS MARÍA",7181359,,1997-08-07,+595983972407,CARLOS.ACOSTA@HOTMAIL.COM,Avda. Mariscal López 3316,Capiatá,2023-07-22
+C000603,Lorena Duarte Ortiz,5.659.273,5659273-6,1999-04-14,0971486436,lorena.duarte@hotmail.com,CALLE PALMA 2261,Ciudad Del Este,2021-05-20
+C000716,Carlos Natalia Vera Benítez,2.662.175,2662175-4,1980-06-01,+595981136578,,Avda. Eusebio Ayala 2919,C. del Este,2021-05-30
+C000507,Miguel Vera Ayala,2937347,,1956-12-29,0981 492 643,miguel.vera@gmail.com,CALLE INDEPENDENCIA 2256,Asunción,2022-09-24
+C000659,Carlos Ana Ortiz Giménez,3.512.452,,1993-06-13,0976 085 766,carlos.ortiz@hotmail.com,Avda. España 229,Ciudad del Este,2020-08-03
+C000720,fabiola acosta duarte,7.753.908,,1972-01-01,0986921545,fabiola.acosta@outlook.com,Avda. Madame Lynch 1178,Capiatá,2018-11-12
+C000593,DERLIS AYALA BENÍTEZ,6339499,,1993-01-21,+595976839924,derlis.ayala@empresa.com.py,Calle Independencia 3226,FERNANDO DE LA MORA,2019-01-12
+C000872,DRLIS ACOSTA TORRES,,1427208-3,1978-07-30,(0983) 545058,drlis.acosta@empresa.com.py,AVENIDA EUSEBIO AYALA 413,Lambaré,2021-10-08
+C000704,derlis liz martinez insfran,7410684,7410684-8,1998-03-29,+595981695136,derlis.martinez@empresa.com.py,CALLE PALMA 1198,Lambaré,2018-07-11
+C000513,Carlos Insfrán Vera,3575531,,1973-12-17,0978 637 454,,Avenida Eusebio Ayala 2357,C. del Este,2018-07-03
+C000154,Diego Rubén Villalba Martínez,5290511,5290511-0,1983-04-05,0976044720,,Avda. España 2382,Fernando d.l. Mora,2021-12-28
+C000428,LORENA ROMERO ESCOBAR,1528838,1528838-2,1963-05-25,0988 407 959,lorena.romero@hotmail.com,Avda. Mariscal López 2845,Capiatá,2022-04-15
+C000580,Rubén Lorena Britez Fretes,4118867,4118867-9,1950-02-24,0981 308 314,ruben.britez@outlook.com,Avda. Mariscal López 453,Capiatá,2023-02-17
+C000143,Carlos Carlos Ayala Acosta,6245060,,1997-08-27,(0978) 930707,carlos.ayala@hotmail.com,Calle Palma 716,Ciudad del Este,2024-10-13
+C000442,Luis Martínez Martínez,3399184,3399184-7,1986-01-15,0971888423,luis.martinez@empresa.com.py,C/ Cerro Corá 1980,Ciudad del Este,2018-08-06
+C000454,GUSTAVO JUAN VERA LÓPEZ,2.191.302,2191302-1,1988-11-13,+595984729573,GUSTAVO.VERA@EMPRESA.COM.PY,C/ Cerro Corá 3941,Ciudad del Este,2023-12-11
+C000861,SOFÍA MIGUEL LÓPEZ FRETES, 4874065 ,4874065-9,,0984238325,sofia.lopez@empresa.com.py,Avda. Mariscal López 900,Capiatá,2023-10-30
+C000181,Derlis Romero Villalba,5080745,,1969-12-02,0976580496,derlis.romero@gmail.com,Calle Independencia 1671,Lambaré,2024-05-09
+C000030,"GONZÁLEZ DUARTE, DERLIS",4371359,,1958-07-18,+595979620193,derlis.gonzalez@empresa.com.py,Avenida España 2288,Ciudad del Este,2019-06-15
+C000920,Rubén Britez illalba,3.741.393,3741393-9,1964-01-29,(0975) 502146,RUBEN.BRITEZ@EMPRESA.COM.PY,Calle Cerro Corá 1740,Luque,2022-08-10
+C000696,sofia cabrera rojas,3854717,,1961-09-21,980963,sofia.cabrera@empresa.com.py,C/ Independencia 3201,Fernando de la Mora,2019-12-13
+C000604,Karina Samudio Ortiz,4.644.784,4644784-9,1951-05-16,0971012771,karina.samudio@gmail.com,Avenida Eusebio Ayala 2472,Ciudad del Este,2023-12-11
+C000337,LIZ KARINA FRETES MARTÍNEZ,6789636,6789636-7,1989-04-16,0985299507,,C/ Cerro Corá 1214,Encarnación,2020-10-05
+C000558,RUBÉN AYALA CABRERA,5.295.414,5295414-5,1966-01-19,0971 744 667,ruben.ayala@hotmail.com,Calle Cerro Corá 2876,Luque,2021-01-15
+C000589,ana karina romero romero,7676253,7676253-0,1950-11-28,0989870048,ana.romero@gmail,Calle Cerro Corá 3915,San Lorenzo,2021-03-20
+C000363,Karina López Cáceres,1.464.121,1464121-6,1976-04-26,0973278869,karina.lopez@empresa.com.py,Avda. Madame Lynch 1628,Asunción,2021-10-04
+C000031,Miguel Karina Duarte Giménez,4138580,,1964-10-22,+595972091149,miguel.duarte@outlook.com,C/ Cerro Corá 887,Capiatá,2023-03-27
+C000394,"BÁEZ DUARTE, DERLIS SOFÍA",5790281,,1995-07-19,0978988835,derlis.baez@hotmail.com,AVENIDA EUSEBIO AYALA 1737,Encarnación,2020-10-08
+C000595,miguel liz lopez cabrera,0,2899418-3,1991-09-30,0987 851 794,MIGUEL.LOPEZ@EMPRESA.COM.PY,AVENIDA EUSEBIO AYALA 2141,San Lorenzo,2023-09-15
+C000381,Juan Escobar Vera,5138334,,1989-06-23,0976320709,juan.escobar@gmail.com,Calle Independencia 1573,C. del Este,2020-07-29
+C000907,José Rojas Duarte,1399639,,1950-04-11,(0985) 720108,,Avenida España 105,Capiatá,2018-12-02
+C000779,"DUARTE AYALA, DIEGO LORENA",5075237,,1981-09-11,+595988437034,diego.duarte@outlook.com,C/ Cerro Corá 241,Luque,2022-01-20
+C000013,ANA MARTÍNEZ BENÍTEZ,6246483,,1990-03-17,(0973) 136716,ana.martinez@hotmail.com,Calle Cerro Corá 318,Lambaré,2018-04-02
+C000410,Rosa Ana Escobar Villalba,1.594.484,,1972-08-08,0983683208,ROSA.ESCOBAR@EMPRESA.COM.PY,Avenida Madame Lynch 827,Lambaré,2021-09-24
+C000854,Lorea Juan Acosta Fretes,,6169218-2,1960-07-28,0985 422 949,lorea.acosta@empresa.com.py,Avda. Mariscal López 318,Asunción,2022-02-08
+C000564,FABIOLA CARLOS ROJAS VERA,1549163,,1984-05-18,+595989024185,,Calle Palma 3285,Encarnación,2022-05-10
+C000231,SOFÍA GONZÁLEZ CABRERA, 2215570 ,2215570-8,1976-07-07,0979835332,sofia.gonzalez@hotmail.com,Avenida Mariscal López 2979,Encarnación,2021-07-17
+C000370,Ana Luis Romero Benítez,1003394,1003394-7,1957-04-07,0981234991,ana.romero@gmail.com,Avenida Madame Lynch 3709,Ciudad Del Este,2019-09-04
+C000373,RUBÉN AYALA ESCOBAR,7.697.748,7697748-0,1984-08-31,0978093861,ruben.ayala@outlook.com,Avenida Mariscal López 2976,Capiatá,2023-06-18
+C000365,"BÁEZ ACOSTA, RUBÉN MIGUEL",3464872,,1966-04-28,0984284715,ruben.baez@gmail,Avenida Eusebio Ayala 1876,C. del Este,2018-10-29
+C000076,"ACOSTA DUARTE, KARINA",1448174,,1984-09-21,0986 318 866,,C/ Independencia 582,FERNANDO DE LA MORA,2022-10-06
+C000497,RUBÉN ORTIZ TORRES,7.505.139,,1969-04-29,+595977733417,ruben.ortiz@outlook.com,C/ Cerro Corá 1479,Capiatá,2024-02-12
+C000114,Rosa Miguel Insfrán Britez,6791859,,1963-08-20,0984 808 361,rosa.insfran@outlook.com,Calle Palma 3597,Fernando d.l. Mora,2018-04-29
+C000774,luis karina cabrera ortiz,4008538,,1966-04-17,0980865741,luis.cabrera@gmail,Avenida Madame Lynch 1118,Lambaré,2021-06-21
+C000456,Diego Ortiz Duarte,3.315.919,3315919-0,1979-09-06,+595974575214,DIEGO.ORTIZ@EMPRESA.COM.PY,C/ Palma 1355,San Lorenzo,2023-07-31
+C000794,Rubén María Giménez Britez,3479732,3479732-7,1951-10-07,0988808750,ruben.gimenez@hotmail.com,CALLE CERRO CORÁ 488,Encarnación,2018-12-21
+C000656,MIGUEL GUSTAVO GIMÉNEZ CÁCERES,3.662.999,,1997-07-28,0971 968 343,miguel.gimenez@gmail.com,Calle Palma 1110,Ciudad del Este,2023-03-13
+C000541,"ORTIZ GONZÁLEZ, JOSÉ ROSA",7092006,,1995-09-24,0976 016 576,jose.ortiz@hotmail.com,Avda. Eusebio Ayala 3959,Capiatá,2023-09-28
+C000623,"FRETES BÁEZ, KARINA",4444619,,1972-08-21,(0981) 242847,,CALLE PALMA 3415,Lambaré,2020-04-24
+C000202,José Sofía Insfrán Rojas,2.123.668,,1954-01-24,0974 240 149,jose.insfran@gmail.com,Avenida Mariscal López 1665,Capiatá,2022-11-11
+C000546,José Rubén Báez González,3341072,,1998-02-26,0972913781,jose.baez@outlook.com,Avenida Eusebio Ayala 1494,Lambaré,2021-01-11
+C000827,"TORRES BÁEZ, ROSA",,,1991-11-03,0981995050,rosa.torres@outlook.com,Avenida Eusebio Ayala 299,Fdo. de la Mora,2025-11-27
+C000463,Miguel Juan Fretes Samudio,4422882,,1986-10-19,0983 775 375,miguel.fretes@hotmail.com,Avenida Madame Lynch 1939,Luque,2022-01-31
+C000641,Liz Insfrán Vera,2165775,2165775-0,1998-12-14,0988 591 340,liz.insfran@outlook.com,Calle Cerro Corá 2165,S. Lorenzo,2024-01-10
+C000532,Lorena Miguel Samudio Fretes,4008135,4008135-9,1954-07-27,+595976188912,lorena.samudio@empresa.com.py,AVENIDA ESPAÑA 761,Ciudad del Este,2022-11-21
+C000881,LizL iz Acsta Vera,,5085424-0,1967-10-23,0982360973,LIZL.ACSTA@OUTLOOK.COM,Calle Cerro Corá 2881,Ciudad del Este,2024-04-21
+C000795,"FRETES FRETES, CARLOS",4955300,4955300-3,1969-08-13,+595979814412,carlos.fretes@empresa.com.py,Calle Independencia 3947,San Lorenzo,2019-10-01
+C000768,Gustavo María Rojas González,4535046,,1978-05-12,+595988327849,gustavo.rojas@hotmail.com,Calle Independencia 3310,Encarnación,2024-04-10
+C000392,"DUARTE BENÍTEZ, LORENA LUIS",5439469,5439469-4,1977-12-29,0982 232 077,lorena.duarte@hotmail.com,AVENIDA EUSEBIO AYALA 574,FERNANDO DE LA MORA,2022-07-10
+C000451,ANA NATALIA BENÍTEZ AYALA,4.736.257,4736257-0,1961-12-05,0984 574 760,,AVENIDA MADAME LYNCH 1305,Ciudad del Este,2019-03-11
+C000663,Diego Sofía Benítez Fretes,7.874.710,7874710-4,1997-05-11,+595986441443,diego.benitezempresa.com.py,Calle Palma 3299,Lambaré,2022-11-05
+C000354,gustavo ortiz samudio,3952122,3952122-2,1980-10-18,0975 943 347,gustavo.ortiz@outlook.com,Calle Independencia 655,Asunción,2022-12-01
+C000401,"VILLALBA FRETES, DERLIS ANA",1795074,1795074-0,1953-07-25,0971 954 318,derlis.villalba@empresa.com.py,Avenida Eusebio Ayala 400,Ciudad del Este,2018-11-01
+C000276,MARÍA GIMÉNEZ ROMERO,6056801,,1984-07-23,(0982) 969957,maria.gimenez@outlook.com,C/ Cerro Corá 2059,Ciudad del Este,2022-08-08
+C000230,José José Insfrán Benítez,7122608,,1976-11-25,0974 516 586,jose.insfran@empresa.com.py,Calle Cerro Corá 3163,Lambaré,2020-07-21
+C000234,Ana Luis Britez Britez,4.760.725,4760725-4,1980-11-24,+595985091957,ana.britez@outlook.com,Avda. Mariscal López 995,Encarnación,2024-07-07
+C000293,"ORTIZ ROMERO, LUIS KARINA",4.670.589,,1987-03-30,+595973331691,luis.ortiz@hotmail.com,Calle Cerro Corá 879,Encarnación,2022-12-11
+C000713,Lorena Martínez Benítez,6871242,,1988-06-04,(0976) 908485,lorena.martinez@empresa.com.py,Calle Cerro Corá 995,Luque,2022-03-10
+C000224,Karina López Báez,5574285,5574285-8,1973-11-12,0972 563 693,,Avenida España 2346,Fernando de la Mora,2018-05-23
+C000112,Juan Duarte Ayala,6981845,6981845-2,1961-09-08,0985337696,,Avenida Mariscal López 207,SAN LORENZO,2019-01-15
+C000834,"ACOSSTA CABRERA, JOSÉ",,,1985-07-29,0982771015,,C/ Cerro Corá 1682,Ciudad del Este,2019-11-06
+C000322,Rosa Fretes Benítez,7283435,,1997-10-02,0975201549,rosa.fretes@outlook.com,Calle Palma 1876,Encarnación,2021-05-01
+C000280,"ACOSTA ROJAS, RUBÉN",0,2072607-4,1972-08-13,+595973300248,ruben.acosta@gmail.com,Avenida Eusebio Ayala 1618,Asunción,2019-03-22
+C000095,karina diego gonzalez martinez,3756772,3756772-1,1970-09-02,0974 050 402,,Avenida Madame Lynch 1992,Luque,2020-06-28
+C000706,Rubén María Insfrán Cáceres,6.768.962,6768962-0,1957-02-21,0971 001 297,ruben.insfran@outlook.com,Avda. Madame Lynch 1500,Luque,2019-09-07
+C000493,Lorena Vera Villalba,1.370.341,1370341-2,1997-07-20,0978 206 044,lorena.vera@hotmail.com,C/ Palma 3037,Lambaré,2024-01-29
+C000874,ROSAA FABIOLA VILLALBA VERA,,1754402-5,,0975428101,rosaa.villalba@empresa.com.py,Avenida España 3139,Lambaré,2020-10-04
+C000890,KAIRNA ECSOBAR GONZÁLEZ,7.144.255,7144255-3,1957-02-02,0973 427 764,,C/ Cerro Corá 1846,Lambaré,2025-04-23
+C000803,Karin aRubén Benítez Duarte,4.757.493,,1987-04-12,+595988471994,karin.benitez@hotmail.com,CALLE PALMA 2076,Lambaré,2019-01-21
+C000748,"TORRES TORRES, LUIS",1.005.441,1005441-3,1953-02-24,+595982621054,luis.torres@hotmail.com,C/ Palma 1723,Encarnación,2018-07-20
+C000215,ana luis torres ortiz,6983957,,1958-06-23,0989220868,ana.torres@empresa.com.py,Avda. Mariscal López 2024,Capiatá,2019-06-02
+C000722,jose ayala benitez,3556970,3556970-0,1986-03-17,987087,jose.ayala@gmail.com,Avenida Eusebio Ayala 2279,Ciudad del Este,2024-01-14
+C000097,Derlis Lorena Samudio Torres,1174106,,1976-03-29,0989 039 472,,Calle Palma 1725,Ciudad del Este,2022-08-22
+C000179,Lorena Miguel Martínez Ortiz,2.263.590,,1982-04-08,0980 774 615,lorena.martinez@outlook.com,Calle Palma 1324,Luque,2021-08-16
+C000206,fabiola baez benitez,6.147.688,,1956-11-24,0986365007,fabiola.baez@empresa.com.py,Avenida España 1782,Encarnación,2019-09-13
+C000707,DERLIS ORTIZ BRITEZ,3.672.947,,1980-06-17,0980 872 644,,Calle Palma 1263,Asuncion,2024-08-28
+C000282,luis rojas lopez,6217556,,1963-04-23,0979 032 737,luis.rojas@empresa.com.py,Avda. Mariscal López 1895,San Lorenzo,2024-10-31
+C000758,Lorena Gustavo Duarte Ortiz, 3654909 ,3654909-6,1964-04-14,0984168650,LORENA.DUARTE@GMAIL.COM,C/ Cerro Corá 2786,CDE,2024-08-24
+C000248,María Natalia Fretes Martínez,5528323,5528323-3,1999-03-21,+595981445385,maria.fretes@outlook.com,Calle Palma 2586,Ciudad Del Este,2022-04-07
+C000566,NATALIA ACOSTA BRITEZ,6379865,,1984-07-04,0980019706,natalia.acosta@outlook.com,Avenida Mariscal López 3530,Fdo. de la Mora,2022-01-06
+C000334,Rosa Fabiola Escobar Rojas,4430362,4430362-9,1995-05-09,0974 333 711,rosa.escobar@hotmail.com,Avenida Mariscal López 2888,Asunción,2020-08-13
+C000909,Drlis Natalia Giménez Fretes,,,1960-06-21,0982579401,drlis.gimenez@gmail.com,Avda. Madame Lynch 674,San Lorenzo,2022-04-12
+C000430,"DUARTE MARTÍNEZ, ANA FABIOLA",3531515,,1980-12-15,0971 508 654,ana.duartegmail.com,Avda. España 3633,Lambaré,2021-09-24
+C000244,FABIOLA ESCOBAR ESCOBAR,7.259.581,7259581-7,1989-12-14,0971 797 782,fabiola.escobar@gmail.com,Avenida Eusebio Ayala 1120,San Lorenzo,2024-01-10
+C000165,Natalia Benítez Rojas,2870383,,1955-10-31,0976486670,natalia.benitez@empresa.com.py,Calle Independencia 3760,FERNANDO DE LA MORA,2019-06-06
+C000667,KARINA ROSA ORTIZ ROJAS,1266587,1266587-8,1987-04-01,0989975139,karina.ortiz@empresa.com.py,C/ Independencia 2323,Encarnación,2019-04-03
+C000491,MARÍA DIEGO FRETES ORTIZ,6884138,6884138-8,1997-03-26,0974335502,,C/ Cerro Corá 940,Fdo. de la Mora,2023-02-05
+C000891,Karina José Escobar Escoar,4597068,4597068-8,,0976105169,,Avenida España 2525,Lambaré,2023-02-23
+C000519,sofia cabrera britez,6534601,6534601-7,1991-06-26,0976479657,sofia.cabreraoutlook.com,Calle Cerro Corá 3536,Asunción,2022-04-08
+C000714,Derlis Rojas Cabrera,1615676,,1952-11-08,0976 207 292,derlis.rojas@hotmail.com,Calle Cerro Corá 2264,San lorenzo,2023-08-24
+C000425,ANA DIEGO TORRES ROMERO,1.310.574,1310574-4,1981-09-09,0983 078 759,,Avda. España 1130,Luque,2020-11-26
+C000543,MARÍA CABRERA BENÍTEZ,7053832,,1984-06-06,+595979283726,maria.cabrera@empresa.com.py,Avda. Mariscal López 3988,Capiatá,2023-07-04
+C000177,Fabiola Gustavo Escobar González,2.657.447,2657447-0,1989-09-13,0988 092 899,fabiola.escobar@gmail.com,CALLE INDEPENDENCIA 2968,S. Lorenzo,2023-09-17
+C000405,JOSÉ NATALIA FRETES CABRERA,5317314,5317314-7,1977-04-25,+595986674901,jose.fretes@gmail.com,Avda. Mariscal López 373,Capiatá,2023-03-01
+C000579,Ana Ana Villalba Britez,3290488,,1966-12-22,+595981108071,ana.villalba@outlook.com,AVENIDA ESPAÑA 966,Asuncion,2022-04-01
+C000217,Lorena Samudio Acosta,2247070,,1973-04-06,972964,,Calle Cerro Corá 1578,Asunción,2018-07-01
+C000686,Liz María Fretes Samudio,5972347,5972347-5,1992-12-23,0989 578 251,LIZ.FRETES@GMAIL.COM,Calle Cerro Corá 165,Encarnación,2018-05-20
+C000701,Rosa Samudio Villalba,7712225,,1985-06-02,0978 308 362,rosa.samudio@empresa.com.py,Avenida España 2622,Capiatá,2018-05-29
+C000744,Miguel González Báez,1881452,1881452-2,1963-12-29,0989 220 813,miguel.gonzalez@hotmail.com,Avda. España 3562,Fernando de la Mora,2018-03-31
+C000692,"AYALA AYALA, JUAN ANA",5098297,5098297-4,1955-06-19,0983 083 205,juan.ayala@empresa.com.py,Avenida Eusebio Ayala 2643,Fernando de la Mora,2024-04-09
+C000592,Juan Fabiola Britez Cabrera,2270654,2270654-2,1988-11-17,+595984157600,juan.britez@empresa.com.py,Calle Cerro Corá 2217,Asunción,2019-05-19
+C000517,"SAMUDIO FRETES, KARINA",2.102.172,,1964-01-15,0978700360,karina.samudio@outlook.com,Calle Palma 2216,Fdo. de la Mora,2024-02-05
+C000443,DERLIS JUAN BRITEZ FRETES,4429110,,1978-12-23,0971 081 789,derlis.britezgmail.com,CALLE PALMA 2817,Capiatá,2020-07-23
+C000563,Fabiola Lorena Escobar Duarte,7720336,,1966-02-05,0976 122 656,fabiola.escobar@hotmail.com,Avda. Mariscal López 2697,Lambaré,2020-01-09
+C000469,"BENÍTEZ MARTÍNEZ, RUBÉN JOSÉ",5.938.953,5938953-2,1950-08-28,+595971026066,RUBEN.BENITEZ@GMAIL.COM,Avenida España 2646,Ciudad Del Este,2021-04-05
+C000017,Diego Diego Báez Duarte,2469575,2469575-9,1957-01-04,+595972615960,diego.baez@gmail.com,C/ Cerro Corá 3519,ASUNCIÓN,2022-10-13
+C000245,Karina Rubén Samudio Duarte,6.979.177,,1958-12-29,0988 396 671,karina.samudio@gmail.com,Avenida Madame Lynch 3530,Lambaré,2020-10-22
+C000622,Sofía Samudio López,6542117,6542117-5,1995-10-19,0975696948,sofia.samudio@gmail.com,C/ Palma 3605,Capiatá,2023-02-04
+C000246,NATALIA ESCOBAR SAMUDIO,4.983.211,4983211-9,1971-07-05,0984875588,natalia.escobar@hotmail.com,AVENIDA EUSEBIO AYALA 1475,Luque,2024-08-26
+C000389,Sofía Ortiz Acosta,2912095,2912095-0,1969-07-19,0988731544,sofia.ortiz@hotmail.com,AVENIDA EUSEBIO AYALA 1560,Encarnación,2024-08-10
+C000019,Gustavo María Vera Ortiz,4829744,,1956-08-06,0978409611,gustavo.vera@outlook.com,Calle Palma 949,C. del Este,2018-02-20
+C000075,Sofía Derlis Cabrera Villalba,2.007.282,,1950-09-19,0983 461 711,sofia.cabrera@empresa.com.py,Calle Independencia 2047,Capiatá,2019-11-19
+C000897,"TRRES GONZÁLEZ, ANA",,3061480-5,1953-03-02,0978866182,ana.trresoutlook.com,Avda. Eusebio Ayala 944,San Lorenzo,2021-07-27
+C000838,"CÁCERES ROJAS, ANNA ROSA",,1877514-4,1962-03-30,0986227068,anna.caceres@empresa.com.py,Avenida España 850,Fernando d.l. Mora,2024-02-19
+C000826,"INSFRN DUARTE, MIGUEL",,7172885-6,1964-04-27,0971022523,miguel.insfrn@gmail.com,CALLE PALMA 1818,Encarnación,2021-01-04
+C000342,rosa insfran martinez,1.974.256,,1987-02-15,0989 530 063,rosa.insfran@outlook.com,C/ Cerro Corá 1289,Encarnación,2023-05-09
+C000205,Luis María Samudio Escobar,4157456,,1969-09-20,0973198027,luis.samudiohotmail.com,Avda. España 2049,Fdo. de la Mora,2023-12-04
+C000251,Carlos Ana Báez López,1406178,,1997-12-26,(0986) 976136,carlos.baez@outlook.com,Avenida España 715,SAN LORENZO,2023-03-05
+C000209,Carlos Duarte Rojas,1719045,,1991-06-02,0973275090,carlos.duarte@hotmail.com,AVENIDA MARISCAL LÓPEZ 402,Ciudad del Este,2024-07-29
+C000172,"ACOSTA CÁCERES, CARLOS",6372602,6372602-5,1964-12-15,0983 114 601,carlos.acosta@empresa.com.py,Avenida España 3872,Ciudad del Este,2022-10-15
+C000514,"TORRES BÁEZ, ROSA",1057557,1057557-0,1991-11-03,+595981995050,rosa.torres@outlook.com,Avenida Eusebio Ayala 299,Fernando d.l. Mora,2024-05-14
+C000809,LIZ CÁCERES TORRES,5811297,5811297-9,1971-10-08,(0972) 098375,liz.caceresgmail.com,AVENIDA ESPAÑA 2179,Encarnación,2025-08-20
+C000382,CARLOS MARÍA ROJAS LÓPEZ,5128508,5128508-8,1998-08-25,(0980) 665627,carlos.rojas@gmail.com,Calle Cerro Corá 1879,Encarnación,2020-05-24
+C000574,Natalia Cáceres Romero, 4207871 ,,1963-10-23,0975093363,natalia.caceresempresa.com.py,Avda. España 1005,Luque,2020-09-17
+C000693,Derlis González Vera,0,2686730-3,1995-11-18,(0983) 593891,derlis.gonzalez@hotmail.com,Avenida Mariscal López 2932,Lambaré,2019-12-14
+C000894,JOSÉ LUIS AYALA ORTIZ,7080856,7080856-2,1970-07-18,(0977) 075011,jose.ayala@gmail.com,Avenida Madame Lynch 1413,Capiatá,2022-07-24
+C000730,Derlis Martínez Cabrera,5037796,,1965-07-17,0978636289,derlis.martinez@empresa.com.py,Avenida España 1462,Capiatá,2021-02-07
+C000555,Rubén Fretes López,3752726,,1953-11-05,(0986) 461908,ruben.fretes@outlook.com,C/ Palma 846,Asunción,2018-11-11
+C000155,LUIS MARÍA ACOSTA SAMUDIO,5.576.951,,1990-07-01,0983 286 901,luis.acosta@gmail.com,Calle Independencia 1110,Lambaré,2023-10-22
+C000759,"BÁEZ LÓPEZ, ROSA",4.172.584,,1978-02-01,+595972865044,,Avda. Madame Lynch 3510,Lambaré,2019-01-19
+C000801,RUBÉN INSFÁRN ESCOBAR,1232438,1232438-8,1954-04-18,0981 014 333,ruben.insfarn@gmail.com,C/ Independencia 3790,Luque,2023-09-09
+C000351,JUAN ROMERO CÁCERES,7236638,7236638-9,1957-01-22,0983457720,juan.romero@hotmail.com,Avenida Madame Lynch 3687,Fernando de la Mora,2022-06-12
+C000422,NATALIA BRITEZ VERA,1747242,,1955-05-16,0974 914 201,natalia.britez@hotmail.com,Avenida España 3548,SAN LORENZO,2024-09-13
+C000357,MARÍA DERLIS BÁEZ CABRERA,4061419,,1955-09-18,0982237980,maria.baez@gmail.com,CALLE INDEPENDENCIA 3550,Luque,2018-12-09
+C000635,Fabiola Ayala Martínez,5728510,5728510-1,1958-03-29,0984 112 682,fabiola.ayala@gmail.com,C/ Palma 2872,Asunción,2024-06-10
+C000166,Karina Liz Villalba Romero,6983738,6983738-4,1979-01-11,+595983168890,,Avda. Eusebio Ayala 2857,Capiatá,2018-01-05
+C000817,"GIMÉNEZS AMUDIO, NATALAI FABIOLA",6910043,6910043-8,1969-03-05,0979759089,natalai.gimenezs@hotmail.com,Avda. Mariscal López 1538,Luque,2023-05-17
+C000125,Miguel Rosa Rojas López,3561625,3561625-9,1983-07-07,(0981) 810188,,Avenida Eusebio Ayala 1443,Ciudad del Este,2019-02-25
+C000054,Gustavo López Duarte,4924940,4924940-1,1956-04-22,0986834201,gustavo.lopez@gmail,Avenida España 932,Lambaré,2023-04-08
+C000512,Natalia Sofía Insfrán López,6654998,6654998-1,1969-06-25,(0983) 743339,natalia.insfran@outlook.com,CALLE INDEPENDENCIA 3778,Asunción,2023-06-10
+C000005,Natalia Juan Ayala Insfrán,1925440,,1988-12-28,(0980) 104822,natalia.ayala@outlook.com,C/ Independencia 1370,Fernando de la Mora,2020-09-21
+C000893,"CÁCERES CABRERA, DERLIS",,,1989-07-10,0971 737 668,derlis.caceres@outlook.com,CALLE CERRO CORÁ 1469,Encarnación,2023-04-18
+C000269,Gustavo Ayala Martínez,5.776.304,5776304-6,1958-06-12,0974774014,GUSTAVO.AYALA@HOTMAIL.COM,Calle Cerro Corá 3904,Encarnación,2021-05-29
+C000321,liz caceres villalba,4090138,,1970-02-20,0979579477,liz.caceres@gmail,Avenida Madame Lynch 2634,ASUNCIÓN,2021-12-27
+C000020,José Miguel Britez Fretes,0,7529073-1,1993-01-12,+595979820161,jose.britez@gmail.com,Avda. España 3958,Asu,2022-11-20
+C000109,Gustavo Insfrán Samudio,5306677,5306677-4,1956-09-26,974579,gustavo.insfran@outlook.com,AVENIDA MARISCAL LÓPEZ 2603,Capiatá,2021-06-02
+C000186,miguel sofia benitez rojas,3.326.193,,1982-04-29,+595983972597,miguel.benitez@gmail.com,Avenida España 660,Ciudad del Este,2020-09-27
+C000887,Kraina Benítez Fretes,4368280,,1994-01-31,+595989247242,kraina.benitez@gmail.com,Avda. Mariscal López 2394,Lambaré,2026-04-17
+C000545,Fabiola Fabiola Benítez Cabrera,4503068,4503068-5,1980-09-27,0988463940,fabiola.benitez@empresa.com.py,Avda. España 2669,San Lorenzo,2018-10-22
+C000808,FAIBOLA RUBÉN LÓPEZE SCOBAR,6805744,,1991-10-27,0987004500,faibola.lopeze@gmail.com,Avda. Madame Lynch 1364,SAN LORENZO,2020-04-30
+C000576,Lorena Romero Duarte,5217034,,1969-03-11,0973951408,,Avenida España 3794,asunción,2022-02-22
+C000770,Ana Rosa Rojas González,1662737,1662737-7,1960-08-24,+595983432072,ana.rojas@empresa.com.py,Avenida Mariscal López 567,Asunción,2023-10-15
+C000837,DERLIS LLORENA CÁCERES ESCOBAR,5.918.937,5918937-1,1998-11-26,0980 714 185,derlis.caceres@hotmail.com,Avenida Madame Lynch 3563,San Lorenzo,2019-04-05
+C000571,José Martínez Romero,5254896,,1955-03-08,+595987531358,,CALLE INDEPENDENCIA 948,Lambaré,2021-01-19
+C000461,"SAMUDIO FRETES, FABIOLA",7460255,,1971-01-09,0988800777,fabiola.samudio@gmail,Avenida Madame Lynch 2488,Asunción,2023-10-24
+C000621,Miguel Ayala Benítez, 5686889 ,5686889-9,1973-08-05,0984 695 217,miguel.ayala@outlook.com,C/ Palma 3536,Asunción,2024-12-11
+C000320,luis karina escobar ayala,3093433,3093433-9,1954-12-29,+595972269445,luis.escobar@outlook.com,AVENIDA ESPAÑA 1002,Luque,2022-12-27
+C000214,JOSÉ LUIS ESCOBAR MARTÍNEZ,5645773,5645773-9,1999-01-07,+595988017367,jose.escobar@gmail,AVENIDA ESPAÑA 1670,FERNANDO DE LA MORA,2018-10-25
+C000793,Rosa Martínez Britez,3781064,,1981-09-29,0972126769,rosa.martinez@gmail,CALLE PALMA 1572,Luque,2018-05-10
+C000742,Luis Rosa Fretes Benítez,5449295,,1992-12-17,+595987430078,luis.fretes@gmail,C/ Independencia 1526,S. Lorenzo,2022-01-21
+C000601,Carlos Samudio Samudio,2235078,,1983-08-21,0983431388,carlos.samudio@gmail.com,AVENIDA MADAME LYNCH 1899,Fernando d.l. Mora,2019-11-26
+C000329,luis baez baez,1890695,,1959-10-12,0981668019,,Calle Cerro Corá 2521,Ciudad Del Este,2024-12-13
+C000043,Ana Rojas Ayala,3625272,,1973-09-16,0983 802 855,ana.rojas@outlook.com,Avda. España 3787,Luque,2022-08-29
+C000724,Ana Benítez Fretes,5744670,5744670-9,1964-03-18,0985 032 211,ana.benitez@hotmail.com,Avenida España 3804,Lambaré,2024-08-25
+C000733,JOSÉ BÁEZ BENÍTEZ,7.047.173,7047173-8,1990-10-20,0982794519,jose.baez@outlook.com,Avda. Eusebio Ayala 3781,Capiatá,2024-07-02
+C000776,"ESCOBAR ORTIZ, DERLIS MARÍA",3.520.756,3520756-6,1985-05-15,0981121833,DERLIS.ESCOBAR@OUTLOOK.COM,Avda. Mariscal López 1831,Luque,2018-04-13
+C000660,Diego Báez Britez,0,,1961-09-23,0982172903,diego.baez@gmail.com,Avenida España 1298,Capiatá,2018-12-27
+C000550,"VERA ACOSTA, MIGUEL",1.060.831,,1987-03-29,+595981774369,miguel.vera@outlook.com,Calle Independencia 3910,San Lorenzo,2022-06-07
+C000877,Juan oSfía Giménez Britez,3655193,,1958-10-23,0979 039 491,,Calle Palma 996,Encarnación,2024-06-15
+C000137,karina maria cabrera baez,1079131,1079131-0,1957-04-19,0985485187,karina.cabrera@outlook.com,Avenida Mariscal López 3892,Encarnación,2021-10-15
+C000247,Rubén José Cáceres López,1627605,,1972-09-20,+595989597893,ruben.caceres@gmail,CALLE PALMA 901,Ciudad Del Este,2022-01-25
+C000120,Luis Ortiz Britez,5179605,,1968-07-27,+595980461781,luis.ortiz@outlook.com,Calle Independencia 2326,asunción,2021-01-24
+C000679,liz diego ortiz martinez,4492190,,1985-10-09,(0973) 115631,LIZ.ORTIZ@GMAIL.COM,CALLE CERRO CORÁ 2829,San Lorenzo,2022-10-04
+C000130,KARINA AYALA BÁEZ,3.174.780,,1971-03-21,+595981539309,KARINA.AYALA@OUTLOOK.COM,C/ Palma 545,Fernando de la Mora,2018-05-31
+C000864,"BENÍTEZ FRETES, SOÍFA",3698224,,1964-01-23,0980 397 826,soifa.benitez@outlook.com,AVENIDA MARISCAL LÓPEZ 3240,Capiatá,2024-08-20
+C000737,"ACOSTA BÁEZ, MIGUEL FABIOLA",6.401.966,6401966-7,1961-10-27,0977 704 112,,Avenida Eusebio Ayala 2717,Fernando d.l. Mora,2021-11-08
+C000446,JUAN BÁEZ MARTÍNEZ,2269076,2269076-0,1951-09-08,0983 344 438,juan.baez@empresa.com.py,Avenida Madame Lynch 2609,Fernando de la Mora,2022-09-27
+C000093,Lorena Rosa López Benítez,5.767.694,,1954-10-22,0977102709,lorena.lopez@empresa.com.py,AVENIDA MARISCAL LÓPEZ 965,San lorenzo,2022-11-20
+C000400,"ESCOBAR TORRES, SOFÍA SOFÍA",7184315,,1951-04-21,(0988) 982194,sofia.escobar@empresa.com.py,Avenida España 1519,Fernando de la Mora,2024-12-14
+C000904,Maíra Britez Rojas,3796445,3796445-3,1986-04-07,0974283038,maira.britez@hotmail.com,AVENIDA MARISCAL LÓPEZ 1063,Lambaré,2021-03-08
+C000009,Ana Villalba Torres,7036205,,1974-05-13,(0975) 861598,ana.villalba@gmail.com,AVENIDA MARISCAL LÓPEZ 1658,Ciudad del Este,2018-02-23
+C000447,rosa diego romero baez,3086472,,1996-06-13,(0983) 081393,rosa.romero@hotmail.com,AVENIDA MARISCAL LÓPEZ 1764,Ciudad del Este,2023-11-10
+C000756,"BRITEZ ROMERO, CARLOS MARÍA",7492344,7492344-7,1991-12-27,0988 365 573,carlos.britez@gmail,Avenida España 883,San Lorenzo,2022-03-01
+C000052,Rubén Romero Escobar,5.009.851,5009851-9,1971-07-02,0974 057 387,ruben.romero@hotmail.com,Avenida España 947,Luque,2018-03-02
+C000325,María Miguel Cabrera Ayala,7318760,7318760-7,1967-01-21,0980 975 950,maria.cabrera@gmail.com,Calle Independencia 2013,Lambaré,2021-04-06
+C000862,Rosa Romero Fretes,4433364,4433364-1,1979-01-05,0975337107,rosa.romero@gmail.com,Avenida Eusebio Ayala 1060,Ciudad Del Este,2026-10-26
+C000900,Natalia Derlis Marítnez Ayala,3.424.080,3424080-2,1985-08-21,0981512732,natalia.maritnez@hotmail.com,Avenida Madame Lynch 3339,Lambaré,2024-05-15
+C000680,Ana Romero Romero,5819263,,1970-03-30,+595981748091,ana.romero@hotmail.com,AVENIDA MARISCAL LÓPEZ 3935,S. Lorenzo,2019-01-20
+C000665,Liz Insfrán Benítez,6713883,,1964-08-26,0987757292,liz.insfran@hotmail.com,Calle Independencia 3791,Capiatá,2022-10-10
+C000183,Karina Rojas Duarte,7226947,7226947-2,1973-01-15,0975 036 075,karina.rojas@hotmail.com,Avenida Mariscal López 1018,Encarnación,2023-01-12
+C000672,Sofía Samudio Samudio,5778030,5778030-7,1961-10-26,0988149629,sofia.samudio@gmail,Calle Cerro Corá 1425,C. del Este,2024-04-15
+C000035,"VERA ORTIZ, ANA",1228191,1228191-3,1970-09-20,0976172949,ana.vera@hotmail.com,Calle Cerro Corá 722,Capiatá,2022-02-15
+C000899,ROSSA DIEGO CABRERA MARTÍNEZ,7275310,7275310-2,,0976031574,,Avenida Madame Lynch 948,FERNANDO DE LA MORA,2023-12-21
+C000726,diego caceres martinez,3.797.892,3797892-6,1986-12-14,(0980) 947431,diego.caceres@gmail.com,Calle Cerro Corá 3796,San Lorenzo,2018-10-15
+C000018,ANA CÁCERES ACOSTA,2706127,,1973-04-28,0985485258,,Avenida España 253,Asu,2020-06-05
+C000444,Carlos Gustavo Fretes Duarte,2.716.712,2716712-7,1954-07-11,0981626547,carlos.fretes@gmail.com,AVENIDA ESPAÑA 303,San Lorenzo,2021-10-26
+C000360,Sofía María López Benítez, 2057312 ,,1965-01-15,0976377105,,Avenida Mariscal López 1680,Asunción,2023-09-06
+C000022,Karina Escobar Villalba,7209998,7209998-4,1964-11-28,0982 569 440,karina.escobar@outlook.com,Avenida Eusebio Ayala 1962,San lorenzo,2018-01-28
+C000371,liz karina rojas gonzalez,2102671,2102671-8,1969-09-18,(0971) 436127,,Avda. España 2784,FERNANDO DE LA MORA,2024-11-27
+C000103,DERLIS FABIOLA VILLALBA SAMUDIO,1014888,1014888-4,1957-12-03,(0983) 643648,derlis.villalba@empresa.com.py,Calle Independencia 1947,Luque,2018-11-25
+C000807,Juan Torres Báez,1.647.386,,1996-05-29,0982 912 450,juan.torres@outlook.com,Avenida Mariscal López 3930,SAN LORENZO,2018-04-29
+C000481,Natalia Karina Vera Acosta,7.330.432,,1977-09-26,984750,natalia.vera@hotmail.com,Avenida Eusebio Ayala 149,Fernando de la Mora,2023-02-24
+C000222,Rosa Martínez Cabrera,1796117,1796117-3,1982-07-21,0975265335,rosa.martinez@hotmail.com,Avenida España 2734,Luque,2024-10-22
+C000131,Sofía Vera Giménez,7413670,7413670-4,1969-11-11,0984721458,sofia.vera@gmail.com,Avenida España 1637,Luque,2023-10-30
+C000074,Fabiola Rojas Rojas,4298235,,1998-08-22,0988995667,FABIOLA.ROJAS@EMPRESA.COM.PY,Avda. Madame Lynch 1194,S. Lorenzo,2023-11-05
+C000398,Ana Torres González,3.061.480,,1953-03-02,+595978866182,ana.torresgmail.com,Avda. Eusebio Ayala 944,San Lorenzo,2021-01-26
+C000616,Sofía Derlis Britez López,1054043,1054043-1,1997-03-04,0988837089,sofia.britez@empresa.com.py,C/ Cerro Corá 451,Ciudad Del Este,2018-12-07
+C000157,natalia escobar gonzalez,6074967,,1973-07-25,(0980) 924659,natalia.escobaroutlook.com,Calle Cerro Corá 517,Lambaré,2023-03-08
+C000789,Rubén Diego Acosta Ayala,0,,1957-07-12,0981 599 599,ruben.acosta@gmail.com,AVENIDA ESPAÑA 3987,San Lorenzo,2020-02-20
+C000460,Gustavo Samudio Acosta, 6551525 ,6551525-0,1981-05-07,+595989747592,gustavo.samudio@gmail.com,Calle Independencia 1483,Luque,2023-01-10
+C000344,María Fabiola Ayala Acosta,6703598,6703598-1,1952-11-05,+595989554539,,CALLE INDEPENDENCIA 2208,Asuncion,2020-11-25
+C000139,Liz Ana Fretes Martínez, 1081379 ,1081379-9,1956-06-29,0988 554 973,liz.fretes@empresa.com.py,C/ Cerro Corá 3010,Fernando de la Mora,2019-01-28
+C000871,María Mgiuel Cabrera Ayala,7318760,,1967-01-21,(0980) 975950,maria.cabrera@outlook.com,CALLE INDEPENDENCIA 2013,Lambaré,2023-01-01
+C000034,"MARTÍNEZ VILLALBA, ANA MARÍA",7080946,,1974-03-28,0984825488,,CALLE PALMA 3994,San lorenzo,2024-10-26
+C000228,Lorena Torres Benítez, 6205027 ,6205027-3,1975-11-01,0974920373,,Calle Independencia 127,SAN LORENZO,2023-11-15
+C000171,"VILLALBA MARTÍNEZ, CARLOS NATALIA",3346419,3346419-9,1983-08-01,+595978321429,CARLOS.VILLALBA@EMPRESA.COM.PY,Avenida España 1644,Lambaré,2023-03-04
+C000599,diego sofia lopez lopez,3.485.957,,1971-06-13,0976 597 569,diego.lopez@outlook.com,Avenida España 438,Encarnación,2024-09-04
+C000439,gustavo fabiola lopez baez,5714930,5714930-5,1951-05-12,0974462626,,Avenida Madame Lynch 1803,Asunción,2020-09-05
+C000441,Ana Romero Acosta,7502466,,1984-05-12,(0977) 249398,ana.romero@hotmail.com,Avda. España 2095,Lambaré,2023-05-13
+C000901,Derlis María Fretes Duarte,,3906392-5,1952-12-13,0977 543 789,derlis.fretes@empresa.com.py,AVENIDA EUSEBIO AYALA 119,San Lorenzo,2021-01-27
+C000427,Natalia López Fretes,1.843.654,,1968-05-06,(0975) 742160,natalia.lopez@hotmail.com,Avenida Eusebio Ayala 3126,Luque,2019-04-07
+C000516,Gustavo Luis Vera Báez,2.662.048,2662048-0,1960-12-12,0977015997,GUSTAVO.VERA@GMAIL.COM,Avda. Eusebio Ayala 3592,Lambaré,2023-03-06
+C000053,carlos ortiz duarte,1.014.192,,1972-11-28,+595976355582,carlos.ortiz@gmail.com,Avda. España 3470,Luque,2020-03-08
+C000468,Rubén Ana Vera Torres,5958209,,1975-08-11,0973 288 130,ruben.vera@gmail.com,Avda. Madame Lynch 3475,S. Lorenzo,2023-06-09
+C000725,NATALIA MARTÍNEZ FRETES,4364792,4364792-9,1985-12-12,0978 974 706,natalia.martinez@empresa.com.py,Avenida Madame Lynch 1238,Encarnación,2022-01-06
+C000698,"TORRES FRETES, GUSTAVO LIZ",5867974,5867974-0,1980-01-06,0983 201 666,gustavo.torres@outlook.com,Calle Independencia 1279,Ciudad del Este,2019-11-05
+C000918,Maía Báez Cáceres,6286810,,1993-05-17,0987 242 068,maia.baez@gmail,Calle Independencia 3094,Lambaré,2020-08-09
+C000045,Juan López Ayala,3429063,3429063-0,1998-02-16,+595981848287,,Avenida Mariscal López 924,Luque,2024-04-05
+C000790,sofia gonzalez duarte,7646899,7646899-2,1966-02-07,+595974072615,sofia.gonzalez@hotmail.com,Calle Cerro Corá 1565,Fernando de la Mora,2019-09-03
+C000040,Liz Cáceres Rojas,3879139,3879139-0,1993-08-25,0973298785,liz.caceres@gmail.com,CALLE PALMA 1846,Lambaré,2022-05-18
+C000537,"ESCOBAR VERA, ROSA JOSÉ", 4903735 ,4903735-8,1962-10-30,0975629811,rosa.escobar@outlook.com,Calle Independencia 1795,San Lorenzo,2021-03-22
+C000147,Rosa Luis Benítez Villalba,3127495,,1965-05-24,0989344120,ROSA.BENITEZ@GMAIL.COM,AVENIDA MADAME LYNCH 2016,SAN LORENZO,2022-02-10
+C000772,María Karina Samudio López,7.435.448,,1973-09-23,0983 538 189,,Avenida Eusebio Ayala 3529,Lambaré,2020-09-24
+C000673,Fabiola Giménez Samudio,1.234.923,1234923-2,1986-01-04,+595979660334,,Avda. Eusebio Ayala 1750,Encarnación,2022-04-30
+C000769,Sofía Rojas Rojas,4961882,4961882-2,1972-05-03,0984 655 460,sofia.rojas@empresa.com.py,Avenida España 2662,C. del Este,2024-04-19
+C000554,"SAMUDIO ACOSTA, LIZ DERLIS",3499936,3499936-1,1956-09-06,+595986681615,liz.samudio@hotmail.com,C/ Independencia 3135,Lambaré,2021-09-30
+C000122,"ESCOBAR ESCOBAR, KARINA JOSÉ",4597068,4597068-8,1995-09-08,0976 105 169,karina.escobar@outlook.com,Avenida España 2525,Lambaré,2022-03-01
+C000188,juan derlis torres duarte,2640305,,1980-12-30,+595982330511,juan.torres@outlook.com,C/ Cerro Corá 3651,Capiatá,2018-03-24
+C000421,Diego Carlos Giménez Villalba,6499221,6499221-7,1996-10-25,0973 343 225,diego.gimenez@outlook.com,AVENIDA MADAME LYNCH 2512,Capiatá,2018-04-04
+C000295,Diego Derlis Duarte Villalba,1465286,1465286-2,1989-12-15,0984 675 327,diego.duarte@empresa.com.py,Avenida Eusebio Ayala 1100,Lambaré,2021-07-09
+C000718,Liz Luis Villalba Ortiz,3.084.221,3084221-2,1986-07-31,+595986340010,liz.villalba@gmail.com,AVENIDA EUSEBIO AYALA 1863,Ciudad del Este,2020-09-23
+C000273,Ana Rosa Cáceres Rojas,1.877.514,1877514-4,1962-03-30,0986227068,ana.caceres@gmail.com,Avenida España 850,Fernando de la Mora,2022-01-04
+C000047,María Ana Samudio Duarte,2.336.839,,1969-02-09,0972 099 572,maria.samudio@hotmail.com,C/ Cerro Corá 2943,Ciudad Del Este,2023-05-30
+C000668,"BÁEZ SAMUDIO, LUIS",4.426.348,4426348-1,1975-11-24,0987 460 056,luis.baez@gmail.com,Calle Palma 2804,Encarnación,2024-07-16
+C000377,Rosa Carlos Báez Cabrera,4585909,,1984-11-11,0983467501,rosa.baezgmail.com,Avda. España 2357,San Lorenzo,2023-02-16
+C000473,Sofía Cáceres Duarte,6219521,6219521-2,1995-06-15,+595984713813,sofia.caceres@gmail,AVENIDA EUSEBIO AYALA 1885,C. del Este,2020-09-24
+C000152,ANA ROMERO MARTÍNEZ,3033240,3033240-0,1976-03-06,(0974) 470837,ana.romero@hotmail.com,Avda. España 3845,C. del Este,2019-05-05
+C000830,Derlis CCarlos Torers López,,,1951-06-25,+595987686039,DERLIS.TORERS@HOTMAIL.COM,Avenida Eusebio Ayala 2320,Asunción,2019-09-18
+C000482,Liz Rosa Samudio Fretes,5.591.315,,1954-09-16,+595977554489,liz.samudio@hotmail.com,Avenida Mariscal López 601,Ciudad Del Este,2023-03-30
+C000346,carlos villalba ayala,1951410,1951410-7,1950-06-24,+595985403945,CARLOS.VILLALBA@EMPRESA.COM.PY,Avda. Mariscal López 1008,Luque,2023-03-27
+C000486,"CÁCERES CABRERA, NATALIA",0,,1963-03-03,+595977893716,,Avenida España 2219,C. del Este,2019-09-18
+C000625,jose juan romero martinez,1197931,1197931-3,1995-04-18,0979816892,,Avenida Eusebio Ayala 2853,SAN LORENZO,2022-12-12
+C000549,Carlos Sofía Fretes Báez,1201499,,1983-08-11,0972982908,carlos.fretes@hotmail.com,Avenida Mariscal López 3022,Luque,2024-01-04
+C000236,Carlos Ana González Ortiz,6146670,6146670-0,1975-07-10,+595982686006,CARLOS.GONZALEZ@EMPRESA.COM.PY,Avenida Eusebio Ayala 2747,Asunción,2022-01-13
+C000683,FABIOLA JOSÉ ROJAS TORRES,7754889,7754889-2,1992-12-24,0978149543,fabiola.rojas@gmail.com,Avenida Mariscal López 1596,Asunción,2022-05-31
+C000721,Liz Natalia López Romero,6831531,,1987-01-29,0988 730 433,liz.lopez@empresa.com.py,Calle Cerro Corá 2011,Capiatá,2024-01-20
+C000775,"GONZÁLEZ BRITEZ, MARÍA FABIOLA",4434852,4434852-5,1998-03-20,0987600002,,Calle Cerro Corá 1587,Ciudad Del Este,2024-01-30
+C000300,"BRITEZ FRETES, DERLIS MARÍA",1923121,1923121-0,1952-06-07,0978388418,derlis.britez@outlook.com,Avenida España 623,Ciudad del Este,2018-07-19
+C000008,"AYALA ACOSTA, LUIS CARLOS",5.273.153,,1998-03-30,(0973) 108157,,Avenida Madame Lynch 922,Capiatá,2024-12-11
+C000260,"BRITEZ ROJAS, MARÍA",3796445,,1986-04-07,0974 283 038,maria.britez@empresa.com.py,Avda. Mariscal López 1063,Lambaré,2020-01-09
+C000024,"ROJAS CÁCERES, MARÍA JOSÉ",3168608,3168608-7,1952-07-19,0973959466,maria.rojas@empresa.com.py,Avenida Mariscal López 2019,Fdo. de la Mora,2019-08-30
+C000083,María Derlis Rojas Insfrán,4222460,,1950-11-05,+595983530317,maria.rojas@hotmail.com,C/ Independencia 3972,Ciudad del Este,2024-02-08
+C000305,Sofía Ayala Villalba,2545362,,1985-01-20,0981 494 341,sofia.ayala@hotmail.com,Calle Cerro Corá 1554,Asunción,2019-05-24
+C000629,Fabiola Rosa Villalba Britez,6424897,6424897-6,1965-02-09,+595971384640,fabiola.villalba@outlook.com,AVENIDA ESPAÑA 1061,San Lorenzo,2022-06-26
+C000710,maria jose caceres caceres,1557557,1557557-8,1976-07-24,+595983183601,maria.caceres@empresa.com.py,Avenida España 3877,Luque,2020-10-26
+C000277,Karina Giménez Samudio,3021337,3021337-1,1994-06-05,0978630679,karina.gimenez@empresa.com.py,CALLE INDEPENDENCIA 2482,Capiatá,2019-09-12
+C000140,Fabiola Báez Báez,2674448,2674448-1,1977-09-12,+595975796028,fabiola.baez@empresa.com.py,Avda. España 2920,Lambaré,2024-11-10
+C000581,Rosa Rojas Martínez,0,,1989-02-11,0978258806,rosa.rojas@gmail.com,C/ Cerro Corá 3457,Lambaré,2019-02-08
+C000391,Carlos Giménez Duarte,2.989.401,2989401-8,1953-11-10,0988493408,carlos.gimenez@hotmail.com,Avenida Mariscal López 820,Capiatá,2020-04-07
+C000646,"FRETES DUARTE, DERLIS MARÍA",3.906.392,,1952-12-13,+595977543789,derlis.fretes@outlook.com,Avenida Eusebio Ayala 119,San Lorenzo,2020-08-26
+C000536,Liz Rosa Torres González,3966332,3966332-9,1989-09-12,0974541694,,Avenida Mariscal López 2425,Asunción,2022-06-22
+C000562,"SAMUDIO CÁCERES, JUAN FABIOLA",2.688.995,,1981-08-03,0978202515,juan.samudio@hotmail.com,Avenida Mariscal López 1837,San Lorenzo,2023-10-19
+C000509,"BÁEZ TORRES, SOFÍA LUIS",6105324,,1999-04-13,0978 644 768,sofia.baez@outlook.com,Avda. Madame Lynch 3500,San Lorenzo,2021-07-14
+C000670,DIEGO LÓPEZ FRETES,6.903.796,6903796-5,1955-08-08,+595981504174,diego.lopez@hotmail.com,Avenida Mariscal López 454,Encarnación,2024-09-29
+C000849,"ORTIZ SAMDUIO, GUTSAVO",,3952122-2,1980-10-18,0975 943 347,gutsavo.ortiz@gmail.com,CALLE INDEPENDENCIA 655,ASUNCIÓN,2023-06-09
+C000472,Karina Torres López,7673876,,1991-02-05,0982 089 669,karina.torres@hotmail.com,Avenida Madame Lynch 2151,Asunción,2020-02-21
+C000634,Diego Rosa Cabrera López,2.335.249,,1961-01-28,0986 170 343,diego.cabrera@outlook.com,AVENIDA MARISCAL LÓPEZ 1481,Lambaré,2019-05-11
+C000158,"TORRES CABRERA, JOSÉ GUSTAVO",0,6514563-1,1966-08-22,+595980852887,jose.torreshotmail.com,AVENIDA MARISCAL LÓPEZ 568,San Lorenzo,2018-05-05
+C000027,"VILLALBA AYALA, MIGUEL CARLOS",3.523.121,3523121-1,1957-01-26,989342,,Calle Cerro Corá 2507,Capiatá,2020-09-21
+C000436,Karina González Torres,6.069.005,6069005-4,1999-05-05,+595980974268,karina.gonzalez@hotmail.com,AVENIDA MADAME LYNCH 2427,Asunción,2019-02-12
+C000199,María Sofía González Duarte,7.005.319,7005319-7,1972-11-02,(0972) 704464,,Calle Palma 1104,Lambaré,2020-10-03
+C000761,"CÁCERES LÓPEZ, SOFÍA MIGUEL",3.132.322,,1950-12-13,0987 084 523,sofia.caceres@outlook.com,Calle Palma 1099,Capiatá,2019-06-29
+C000575,Ana Karina Martínez Benítez,5.799.247,5799247-9,1970-11-14,(0980) 590483,ana.martinez@gmail.com,Avenida Madame Lynch 3391,Fernando de la Mora,2022-09-09
+C000174,Liz Miguel González Vera, 6250777 ,,1991-10-27,(0981) 041092,,Avenida Eusebio Ayala 572,Lambaré,2022-03-30
+C000913,SOÍFA CARLOS VERA INSSFRÁN,4.748.525,,1992-04-02,0981493692,soifa.vera@gmail.com,C/ Independencia 619,Lambaré,2020-12-19
+C000242,Luis Karina Giménez Villalba,6.884.598,6884598-7,1975-01-26,(0971) 682811,luis.gimenez@gmail.com,Calle Independencia 221,S. Lorenzo,2018-07-18
+C000369,"VERA VILLALBA, MIGUEL JUAN",0,,1973-03-06,0976809769,MIGUEL.VERA@HOTMAIL.COM,Calle Palma 848,Lambaré,2020-12-21
+C000127,María Britez Acosta,2561017,2561017-1,1954-06-30,0979329226,maria.britez@empresa.com.py,Calle Independencia 807,Luque,2022-08-02
+C000049,"FRETES GONZÁLEZ, LIZ",6317171,6317171-6,1974-06-19,(0983) 365438,liz.fretes@empresa.com.py,Avenida Mariscal López 2025,Asuncion,2020-07-25
+C000557,Sofía Sofía Torres Villalba,4542042,,1957-10-04,0986 956 715,,Calle Palma 2475,S. Lorenzo,2018-06-02
+C000204,juan ana gimenez gimenez,7034110,,1958-06-06,0981 584 209,juan.gimenez@gmail,C/ Independencia 2837,Lambaré,2021-11-30
+C000190,María Rojas Britez,7399207,7399207-0,1973-06-15,0972942998,maria.rojas@hotmail.com,Avenida Madame Lynch 3464,Luque,2020-04-13
+C000544,José Acosta Cabrera,6847632,6847632-9,1985-07-29,0982 771 015,jose.acosta@gmail,CALLE CERRO CORÁ 1682,Ciudad del Este,2019-03-01
+C000395,Karina Escobar González,7144255,7144255-3,1957-02-02,0973427764,karina.escobar@hotmail.com,Calle Cerro Corá 1846,Lambaré,2023-12-11
+C000651,Diego Samudio Rojas,2514220,,1954-08-06,+595974465023,diego.samudio@empresa.com.py,Calle Independencia 3685,Luque,2024-06-07
+C000026,MARÍA ESCOBAR SAMUDIO,5692663,5692663-4,1986-07-10,+595982050258,,Avda. España 1221,San Lorenzo,2019-12-15
+C000749,Diego Gustavo Duarte Ayala, 4079486 ,,1962-07-03,0980477279,diego.duarte@gmail.com,Avenida Mariscal López 2553,Encarnación,2018-03-18
+C000806,Rosa Carlos Báez  Cabrera,,,1984-11-11,0983 467 501,rosa.baez@gmail,Avenida España 2357,San Lorenzo,2025-05-28
+C000404,"DUARTE ROMERO, DIEGO",6.163.508,6163508-1,1995-06-05,0978 409 003,DIEGO.DUARTE@HOTMAIL.COM,Avenida Mariscal López 2083,Encarnación,2020-04-08
+C000207,Karina Vera Insfrán,3.955.603,,1972-07-30,0973 886 989,karina.vera@hotmail.com,AVENIDA EUSEBIO AYALA 3244,Fernando de la Mora,2024-11-26
+C000223,Liz Vera Ayala,1.619.704,,1999-05-21,0983 663 636,LIZ.VERA@GMAIL.COM,Avda. Mariscal López 235,Capiatá,2021-05-12
+C000141,Derlis Torres Insfrán,6379102,6379102-1,1990-10-07,+595980362462,derlis.torres@outlook.com,Avenida Madame Lynch 2843,Encarnación,2022-10-10
+C000518,Carlos Escobar Báez,2.002.985,2002985-3,1981-01-10,0983311979,carlos.escobar@outlook.com,CALLE CERRO CORÁ 1231,asunción,2018-01-22
+C000238,"AYALA CÁCERES, MARÍA",1420103,1420103-8,1991-04-07,(0972) 824073,maria.ayala@gmail.com,C/ Independencia 2177,Asunción,2019-06-17
+C000630,María Escobar Ayala,1865535,1865535-1,1964-01-31,+595985600839,maria.escobar@gmail.com,AVENIDA ESPAÑA 613,Lambaré,2023-08-20
+C000572,Rosa Ayala Britez,3.769.981,,1989-03-22,0983428171,,Avenida España 2172,Encarnación,2022-12-19
+C000014,Fabiola Rosa Torres Villalba,0,4097962-8,1996-12-21,0976 686 521,fabiola.torres@outlook.com,Calle Independencia 1949,Lambaré,2020-03-31
+C000705,JUAN TORRES CABRERA,1611131,1611131-1,1965-10-23,+595972718680,,CALLE CERRO CORÁ 1258,Lambaré,2023-11-11
+C000684,Natalia Samudio Duarte,5.873.890,,1984-09-11,0980870000,natalia.samudio@empresa.com.py,Calle Independencia 486,Asunción,2018-07-11
+C000797,Derlis Natalia Rojas Acosta,3012758,,1964-10-01,0971655551,derlis.rojas@empresa.com.py,AVENIDA MARISCAL LÓPEZ 129,Luque,2019-08-16
+C000192,"VILLALBA GONZÁLEZ, LUIS DIEGO",4437771,,1952-01-07,0971 777 473,luis.villalba@gmail.com,Calle Cerro Corá 1831,Lambaré,2022-12-21
+C000046,Rubén Sofía Rojas Báez, 5577545 ,,1985-04-09,0973319387,ruben.rojas@outlook.com,Calle Independencia 2459,Fernando de la Mora,2021-04-07
+C000690,Liz Liz Duarte Insfrán,2498166,,1999-07-06,0989479031,liz.duarte@gmail.com,Calle Independencia 1381,Lambaré,2020-03-22
+C000015,RUBÉN NATALIA BENÍTEZ ACOSTA,6730375,,1958-12-03,0981 100 084,ruben.benitezhotmail.com,Avenida España 535,Asunción,2020-12-28
+C000879,Roas Diego González Acosta,1340300,,1986-04-05,0986545003,,Avenida Madame Lynch 1398,Luque,2025-12-04
+C000647,Luis Gustavo Rojas Cáceres,5394814,5394814-9,1984-05-22,+595980976066,luis.rojas@gmail,Calle Independencia 1482,Capiatá,2024-09-16
+C000182,"GONZÁLEZ BRITEZ, NATALIA LORENA",3247547,,1985-06-18,(0981) 242550,NATALIA.GONZALEZ@EMPRESA.COM.PY,AVENIDA MADAME LYNCH 1302,FERNANDO DE LA MORA,2018-08-13
+C000842,"AYYALA BÁEZ, KAIRNA",,,1971-03-21,+595981539309,KAIRNA.AYYALA@HOTMAIL.COM,CALLE PALMA 545,Fernando de la Mora,2020-06-23
+C000119,Derlis José Rojas Rojas,3788496,3788496-4,1963-07-31,0986 778 578,derlis.rojas@gmail.com,Avenida Mariscal López 3867,C. del Este,2023-02-21
+C000153,Sofía Giménez Fretes,5931222,5931222-0,1958-07-14,0988260732,,Avda. España 1276,Luque,2020-03-23
+C000539,"BENÍTEZ GIMÉNEZ, ROSA",3065542,,1954-05-28,0978206820,rosa.benitez@hotmail.com,Calle Palma 2323,San lorenzo,2018-02-26
+C000867,Juan Gustavo VeraL ópez,,7318895-6,1959-01-08,(0982) 455127,juan.veral@outlook.com,Avenida Madame Lynch 2276,Asunción,2024-10-18
+C000378,KARINA NATALIA LÓPEZ INSFRÁN,1486572,,1977-09-06,0984605029,karina.lopez@hotmail.com,CALLE INDEPENDENCIA 873,Asunción,2022-07-17
+C000304,Miguel Diego López Insfrán,5.208.219,5208219-9,1967-08-28,0974190417,miguel.lopez@outlook.com,Avenida Eusebio Ayala 3357,Ciudad del Este,2018-10-04
+C000561,Luis Villalba Samudio,1.596.289,,1989-10-28,0985755470,,AVENIDA EUSEBIO AYALA 3670,Luque,2023-05-14
+C000283,José Vera Insfrán,1828925,,1978-02-09,(0976) 527337,jose.vera@hotmail.com,Avenida España 3384,Luque,2021-12-05
+C000001,"AYALA ORTIZ, GUSTAVO",7513898,7513898-0,1977-10-07,0972 653 774,,Avenida España 235,San lorenzo,2024-12-29
+C000431,"ACOSTA ROMERO, LIZ DERLIS",7861558,7861558-5,1999-07-05,0986609914,liz.acosta@hotmail.com,C/ Independencia 3312,Encarnación,2020-03-01
+C000266,natalia samudio torres,6565130,,1983-07-10,0974111790,natalia.samudio@gmail,Calle Palma 2214,Encarnación,2019-08-30
+C000534,Karina José Vera Fretes,2.915.846,2915846-0,1988-01-01,0979159555,KARINA.VERA@OUTLOOK.COM,C/ Palma 1982,CDE,2020-03-09
+C000620,"ACOSTA DUARTE, FABIOLA DIEGO",7795861,7795861-6,1952-09-05,0986676169,fabiola.acosta@hotmail.com,Calle Cerro Corá 2533,Encarnación,2024-02-27
+C000003,JOSÉ SOFÍA GONZÁLEZ VILLALBA,6990828,,1966-03-02,+595976893812,jose.gonzalez@empresa.com.py,C/ Palma 2337,Luque,2023-04-13
+C000241,Juan Romero Cáceres,1.215.356,1215356-7,1966-12-28,0989981720,,Avenida Eusebio Ayala 3961,Fernando de la Mora,2019-12-22
+C000319,KARINA MIGUEL CÁCERES BRITEZ,1932224,,1957-06-20,0982559034,karina.caceres@outlook.com,Calle Independencia 1481,Luque,2023-10-06
+C000866,Rosa Martínnez Cabrera,1796117,1796117-3,1982-07-21,0975 265 335,rosa.martinnez@gmail.com,Avda. España 2734,Luque,2026-10-28
+C000829,crlos frees fretes,4955300,4955300-3,1969-08-13,0979 814 412,crlos.frees@empresa.com.py,Calle Independencia 3947,San Lorenzo,2020-04-07
+C000335,Gustavo Lorena Duarte Romero, 1573446 ,1573446-3,1981-10-23,(0975) 966433,gustavo.duarte@outlook.com,Avda. España 3527,CDE,2019-06-19
+C000585,José Torres González,2575031,,1977-12-28,0974609072,jose.torres@outlook.com,Avenida Madame Lynch 1290,Encarnación,2023-01-13
+C000880,Fabola Liz Cáceres López,1.950.469,,,+595977983091,fabola.caceres@gmail.com,Calle Palma 3741,Asunción,2021-06-29
+C000070,Liz Vera Torres,2.690.997,,1960-11-03,+595971041153,liz.vera@gmail.com,C/ Palma 2825,Luque,2022-02-22
+C000366,"MARTÍNEZ CABRERA, KARINA SOFÍA",3538026,3538026-8,1986-12-16,+595981552896,,Calle Palma 554,Luque,2018-11-24
+C000626,Rosa Ana Ortiz Cáceres,1895338,,1989-08-17,0975591187,rosa.ortiz@empresa.com.py,Calle Cerro Corá 2176,Lambaré,2024-04-13
+C000697,ROSA TORRES SAMUDIO,1.233.168,,1979-06-13,(0974) 890444,ROSA.TORRES@OUTLOOK.COM,Calle Independencia 3399,Asunción,2022-11-30
+C000051,Rosa Sofía Acosta González,7893214,7893214-9,1987-04-11,0978356223,,Calle Cerro Corá 3457,Asunción,2024-03-12
+C000367,Sofía Derlis Duarte Acosta,4295450,,1960-04-25,0974663302,,C/ Cerro Corá 621,Fernando de la Mora,2020-07-19
+C000388,Derlis López Ayala,2029536,2029536-9,1966-01-19,0976993639,DERLIS.LOPEZ@HOTMAIL.COM,Avenida Madame Lynch 1186,S. Lorenzo,2022-11-14
+C000614,ROSA FABIOLA BENÍTEZ ACOSTA, 4171719 ,,1969-08-16,0982046267,rosa.benitez@gmail.com,C/ Cerro Corá 440,Lambaré,2021-07-22
+C000608,"FRETES AYALA, DIEGO",3947542,3947542-5,1964-10-20,0989 948 264,DIEGO.FRETES@HOTMAIL.COM,Avenida Mariscal López 404,C. del Este,2024-11-22
+C000301,MIGUEL LÓPEZ TORRES,5481549,5481549-5,1956-12-22,0981 672 961,,Calle Independencia 136,Fernando de la Mora,2019-05-01
+C000850,Diego Fabola Britez Escobar,2145984,2145984-3,1966-09-28,0988 829 273,diego.britez@hotmail.com,Avenida España 3597,Encarnación,2026-07-31
+C000037,Derlis Duarte González,2498618,2498618-6,1991-04-13,+595986536700,derlis.duarte@empresa.com.py,AVENIDA EUSEBIO AYALA 3330,SAN LORENZO,2021-01-02
+C000784,María Ana Fretes Fretes,3.843.622,3843622-1,1962-04-19,0980868092,,Avenida Mariscal López 3431,Luque,2022-11-26
+C000613,Gustavo Fretes Insfrán,7.289.974,,1981-06-16,0971 442 322,gustavo.fretesgmail.com,C/ Independencia 2643,Luque,2020-09-11
+C000066,Lorena Romero Torres,3111876,,1996-07-03,(0975) 900672,,Avenida Mariscal López 596,Lambaré,2018-03-18
+C000565,José Ayala Villalba,4.528.194,,1969-04-28,+595985191497,JOSE.AYALA@EMPRESA.COM.PY,Avenida Madame Lynch 3883,Capiatá,2023-11-27
+C000615,MARÍA JUAN INSFRÁN VERA,3.887.774,3887774-0,1996-12-18,0974687010,maria.insfran@empresa.com.py,Avenida Madame Lynch 1129,S. Lorenzo,2020-01-25
+C000735,Fabiola Derlis Martínez Ortiz,3513944,3513944-7,1981-01-20,0989575962,,Avda. Madame Lynch 476,Capiatá,2023-12-08
+C000654,Carlos Natalia Benítez Torres,3174559,3174559-8,1974-02-15,0978625618,CARLOS.BENITEZ@GMAIL.COM,Calle Cerro Corá 658,Ciudad del Este,2022-06-28
+C000764,Natalia Samudio Báez, 6446821 ,6446821-9,1995-11-22,+595974646757,natalia.samudio@empresa.com.py,CALLE PALMA 1131,Fernando de la Mora,2018-10-18
+C000687,CARLOS VERA ROMERO,3864065,3864065-1,1981-03-01,0978013758,,CALLE CERRO CORÁ 992,S. Lorenzo,2022-03-26
+C000598,Liz Cáceres Torres,5811297,5811297-9,1971-10-08,0972 098 375,liz.caceres@outlook.com,Avda. España 2179,Encarnación,2024-03-10
+C000908,Derlis María Britze Fretes,1923121,1923121-0,1952-06-07,+595978388418,,Avda. España 623,Ciudad del Este,2020-05-30
+C000150,Carlos Juan Insfrán Cabrera,5983631,,1979-07-15,0971 574 156,carlos.insfran@empresa.com.py,C/ Cerro Corá 3505,Fernando de la Mora,2020-04-14
+C000525,MIGUEL FABIOLA GIMÉNEZ VERA, 3519118 ,3519118-0,1982-06-12,0985098148,miguel.gimenezgmail.com,Avenida Madame Lynch 2044,Fernando de la Mora,2019-06-23
+C000105,CARLOS BENÍTEZ GIMÉNEZ,4.291.259,4291259-8,1997-07-15,0980585312,,Avda. Eusebio Ayala 3812,Ciudad del Este,2024-11-28
+C000379,"VERA AYALA, LIZ SOFÍA",4831004,,1987-11-19,0978905273,liz.vera@gmail.com,Avenida España 703,SAN LORENZO,2018-01-29
+C000187,Diego Miguel Duarte Ayala,0,2161371-0,1951-08-13,0985994219,DIEGO.DUARTE@OUTLOOK.COM,Calle Palma 1305,Ciudad Del Este,2024-10-05
+C000628,"BRITEZ VERA, LUIS",3387233,,1976-01-07,(0981) 982027,luis.britez@outlook.com,Calle Palma 620,asunción,2019-06-26
+C000218,Rubén Diego Cáceres Vera,7.156.564,,1964-11-18,0978 317 130,ruben.caceres@outlook.com,Avenida Madame Lynch 1927,San Lorenzo,2024-04-01
+C000766,"BRITEZ INSFRÁN, NATALIA",2762328,,1973-12-19,(0983) 448174,natalia.britez@hotmail.com,Avda. Madame Lynch 2087,Ciudad del Este,2020-02-10
+C000527,"ORTIZ DUARTE, LORENA ANA",5.303.960,,1958-07-07,0977 554 165,lorena.ortiz@empresa.com.py,AVENIDA EUSEBIO AYALA 727,Ciudad Del Este,2022-04-22
+C000311,Fabiola Rubén Romero Giménez,5953072,,1977-08-04,+595974996779,fabiola.romero@hotmail.com,Calle Independencia 3559,Lambaré,2019-09-29
+C000459,José José Vera Samudio,2312048,2312048-7,1958-06-16,0974941029,,Calle Independencia 224,Ciudad Del Este,2020-12-06
+C000732,María Gustavo Torres Escobar,3241823,3241823-0,1988-10-04,(0983) 055210,maria.torres@empresa.com.py,Avda. España 2701,S. Lorenzo,2024-03-23
+C000916,Sofía Lius Báez Torres,,6105324-9,,0978644768,sofia.baez@outlook.com,Avenida Madame Lynch 3500,San Lorenzo,2022-12-12
+C000044,Miguel Britez Torres,4009530,4009530-4,1981-11-04,+595972629927,,Avda. Mariscal López 1909,Encarnación,2022-02-24
+C000840,"VILLALBA GIMÉNEZ, LIZ",,3003745-0,1980-10-31,0974 942 666,liz.villalba@empresa.com.py,AVENIDA EUSEBIO AYALA 1708,Fernando de la Mora,2019-07-30
+C000376,"TORRES BÁEZ, DIEGO",6344881,,1999-04-13,0972222762,diego.torres@outlook.com,C/ Cerro Corá 1550,Ciudad Del Este,2019-05-18
+C000414,Liz Martínez Ayala,6.686.611,,1998-09-13,0978 465 044,,Calle Independencia 3805,Ciudad del Este,2021-04-20
+C000889,Derlis Gustaavo Giménez Giménez,7786215,,1984-05-31,0971 696 066,DERLIS.GIMENEZ@HOTMAIL.COM,Avda. Eusebio Ayala 2064,San Lorenzo,2020-09-16
+C000636,"CÁCERES DUARTE, LORENA RUBÉN",4817096,,1962-07-17,0971426740,lorena.caceres@gmail.com,Avda. Eusebio Ayala 1664,Ciudad del Este,2020-07-08
+C000025,LIZ ANA VILLALBA MARTÍNEZ,4.320.006,4320006-0,1969-01-28,(0973) 892259,liz.villalba@hotmail.com,Avda. Mariscal López 244,Ciudad del Este,2019-08-28
+C000169,Liz Acosta Villalba,7222015,7222015-9,1972-08-18,0979128138,,Avda. Madame Lynch 2243,Ciudad Del Este,2020-05-04
+C000002,"VERA VILLALBA, FABIOLA",6137966,6137966-2,1969-12-25,(0980) 269717,fabiola.vera@empresa.com.py,Calle Palma 1264,C. del Este,2020-08-31
+C000196,Juan Rojas Martínez,5006132,,1955-01-13,+595982340000,,Avda. Eusebio Ayala 3848,Luque,2021-12-12
+C000638,"BÁEZ ESCOBAR, SOFÍA",2770998,,1994-03-29,+595988675293,sofia.baez@gmail.com,Avda. España 1994,Asunción,2022-04-22
+C000876,Gusstavo AyalaMartínez,,,,(0974) 774014,gusstavo.ayalamartinez@gmail.com,CALLE CERRO CORÁ 3904,Encarnación,2023-06-21
+C000056,"AYALA ESCOBAR, LORENA",2929761,2929761-3,1994-03-02,0976 586 656,lorena.ayala@gmail,Calle Cerro Corá 3806,Encarnación,2019-04-06
+C000358,"TORRES CABRERA, NATALIA JOSÉ",1781082,1781082-5,1959-04-25,0983 880 051,natalia.torres@hotmail.com,AVENIDA EUSEBIO AYALA 2011,CDE,2023-02-16
+C000743,"INSFRÁN ORTIZ, ROSA MARÍA",1044692,1044692-3,1981-09-20,+595989526330,ROSA.INSFRAN@GMAIL.COM,Calle Palma 2900,Capiatá,2020-07-28
+C000582,Luis Insfrán Cáceres,5713117,,1951-02-02,0981 268 385,luis.insfran@gmail.com,Avenida Mariscal López 2518,Lambaré,2018-11-09
+C000919,"DUARTE ROJAS, LIZ ANA",1740886,,1958-02-16,0973983930,liz.duarte@outlook.com,Avenida Mariscal López 3715,Lambaré,2021-06-07
+C000331,ANA GONZÁLEZ VERA,4765644,4765644-1,1982-04-28,0980 053 383,ana.gonzalez@hotmail.com,Avda. Madame Lynch 696,Lambaré,2020-09-05
+C000039,Diego Karina Acosta Rojas,3684572,,1985-03-22,0987704316,diego.acosta@empresa.com.py,CALLE CERRO CORÁ 625,Encarnación,2022-03-02
+C000134,Sofía Natalia Cáceres Báez,1.460.545,,1980-07-22,+595972470260,sofia.caceres@gmail.com,Calle Palma 3215,Lambaré,2021-06-10
+C000833,"BENÍTEZ BRITEZ, LORRENA",,,1988-01-31,+595987179390,lorrena.benitez@empresa.com.py,Calle Cerro Corá 3133,Lambaré,2025-07-31
+C000233,DERLIS CÁCERES CABRERA, 3437331 ,,1989-07-10,0971737668,derlis.caceres@outlook.com,Calle Cerro Corá 1469,Encarnación,2023-01-02
+C000384,MARÍA VERA LÓPEZ,2020573,,1992-07-18,+595975818330,,Calle Independencia 2091,Fdo. de la Mora,2023-11-28
+C000271,"GONZÁLEZ LÓPEZ, RUBÉN CARLOS",7606311,7606311-9,1964-05-01,0977 135 961,ruben.gonzalez@hotmail.com,Avenida Eusebio Ayala 2191,Asunción,2024-08-12
+C000264,DIEGO CÁCERES BRITEZ,5.608.415,,1973-08-18,+595988816496,diego.caceres@gmail,Calle Independencia 3058,Ciudad del Este,2022-07-27
+C000159,Natalia Martínez Fretes,1305218,,1966-12-05,0973495371,NATALIA.MARTINEZ@GMAIL.COM,Avenida España 2045,Lambaré,2019-05-03
+C000057,Fabiola Gustavo Ortiz González,7404725,7404725-6,1985-06-27,0975599017,fabiola.ortiz@outlook.com,AVENIDA ESPAÑA 1934,Luque,2023-03-05
+C000650,Miguel Acosta Benítez,3.768.595,,1990-05-17,0975909562,miguel.acosta@outlook.com,Calle Cerro Corá 590,ASUNCIÓN,2020-03-22
+C000016,MIGUEL LÓPEZ INSFRÁN,2410960,2410960-6,1987-04-15,0982 395 456,miguel.lopez@outlook.com,Avenida Mariscal López 1002,Encarnación,2021-03-07
+C000804,"SAMUDIO SAMUDIO, ROSA",,6511718-2,1999-12-18,0987 479 427,ROSA.SAMUDIO@OUTLOOK.COM,CALLE INDEPENDENCIA 1981,Luque,2022-02-17
+C000167,NATALIA TORRES ORTIZ,1.134.176,1134176-9,1993-04-29,0980 005 741,natalia.torres@hotmail.com,CALLE CERRO CORÁ 3033,Fernando de la Mora,2019-09-13
+C000160,"CÁCERES DUARTE, ROSA",1658718,,1951-11-22,+595980632642,rosa.caceres@empresa.com.py,CALLE CERRO CORÁ 171,Lambaré,2024-04-12

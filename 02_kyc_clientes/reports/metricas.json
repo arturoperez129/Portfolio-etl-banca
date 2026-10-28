@@ -1,0 +1,23 @@
+{
+  "filas": 920,
+  "cedulas_invalidas_o_vacias": 35,
+  "cedulas_recuperadas_desde_ruc": 47,
+  "ruc_presentes": 481,
+  "ruc_con_dv_incorrecto": 25,
+  "telefonos_invalidos": 22,
+  "emails_invalidos_o_vacios": 270,
+  "pares_duplicados_detectados": 115,
+  "pares_por_regla": {
+    "cedula_exacta": 99,
+    "nombre_difuso+fecha_nacimiento": 16
+  },
+  "clientes_unicos": 805,
+  "registros_fusionados": 115,
+  "pct_duplicados": 12.5,
+  "evaluacion_vs_ground_truth": {
+    "pares_reales": 120,
+    "pares_detectados": 115,
+    "precision": 1.0,
+    "recall": 0.958
+  }
+}

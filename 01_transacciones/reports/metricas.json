@@ -1,0 +1,14 @@
+{
+  "filas_entrada": 5150,
+  "filas_limpias": 4896,
+  "filas_rechazadas": 254,
+  "rechazos_por_motivo": {
+    "duplicado": 150,
+    "fecha_invalida": 60,
+    "monto_invalido": 24,
+    "moneda_invalida": 20
+  },
+  "montos_con_signo_corregido": 13,
+  "pct_duplicados": 2.91,
+  "categorias_sin_clasificar": 146
+}

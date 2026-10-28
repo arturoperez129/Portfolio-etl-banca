@@ -1,0 +1,17 @@
+[project]
+name = "portafolio-etl-banca"
+version = "0.1.0"
+description = "Portafolio de proyectos ETL y limpieza de datos para banca y finanzas"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["01_transacciones", "02_kyc_clientes", "03_cartera_mora", "04_conciliacion"]
+testpaths = ["01_transacciones/tests", "02_kyc_clientes/tests", "03_cartera_mora/tests", "04_conciliacion/tests"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501", "E731", "E741"]

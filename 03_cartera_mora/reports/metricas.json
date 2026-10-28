@@ -1,0 +1,24 @@
+{
+  "fecha_corte": "2025-06-30",
+  "filas_entrada": 3030,
+  "creditos_limpios": 2971,
+  "rechazados_por_motivo": {
+    "duplicado": 30,
+    "saldo_invalido": 15,
+    "impago_anterior_a_desembolso": 14
+  },
+  "ingresos_imputados": 238,
+  "ingresos_outlier_ajustados": 42,
+  "edades_corregidas": 74,
+  "saldo_cartera_total_pyg": 257048733000,
+  "indice_morosidad_pct": 4.0,
+  "prevision_total_pyg": 11699527830,
+  "creditos_por_tramo": {
+    "0_AL_DIA": 2452,
+    "1_30": 216,
+    "31_60": 113,
+    "61_90": 74,
+    "91_180": 74,
+    "MAS_180": 42
+  }
+}

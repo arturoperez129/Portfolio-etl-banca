@@ -1,0 +1,33 @@
+{
+  "movimientos_libro": 1200,
+  "movimientos_banco": 1203,
+  "conciliados": 1158,
+  "pct_conciliado_libro": 96.5,
+  "pct_conciliado_banco": 96.26,
+  "pendientes_libro": 42,
+  "pendientes_banco": 45,
+  "conciliadas_por_etapa": {
+    "1_referencia+monto+fecha_exactos": 1008,
+    "2_referencia+monto_con_desfase_fecha": 71,
+    "3_monto+fecha_sin_referencia": 57,
+    "4_referencia_con_diferencia_monto": 22
+  },
+  "saldo_segun_banco": 3403581500,
+  "saldo_segun_libro": 3495298000,
+  "diferencia_saldos": -91716500,
+  "componentes": {
+    "partidas_solo_banco": -4089500,
+    "partidas_solo_libro": 87639000,
+    "diferencias_de_monto_en_conciliadas": 12000
+  },
+  "diferencia_no_explicada": 0,
+  "pendientes_libro_por_causa": {
+    "DEPOSITO_EN_TRANSITO": 24,
+    "CHEQUE_O_PAGO_EN_TRANSITO": 18
+  },
+  "pendientes_banco_por_causa": {
+    "COMISION_BANCARIA_NO_REGISTRADA": 31,
+    "DEBITO_AUTOMATICO_NO_REGISTRADO": 7,
+    "INTERES_NO_REGISTRADO": 7
+  }
+}

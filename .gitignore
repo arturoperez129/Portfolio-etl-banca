@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.env
+
+# Salidas generadas (se reproducen corriendo los pipelines)
+*/data/processed/
+*/data/rejected/
+*.db
+*.parquet
+.DS_Store
