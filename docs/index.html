@@ -1,0 +1,123 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Portafolio ETL Banca</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Fraunces:opsz,wght@9..144,600&display=swap">
+<style>
+/* Layout: single reading column, wide table scrolls inside its own box */
+:root{
+  --bg:#f5f7f8; --surface:#ffffff; --fg:#17232b; --muted:#56656f; --line:#d5dde2;
+  --accent:#0b6e75; --accent-soft:#dff0f1; --code-bg:#eaeff2;
+  --font-display:"Fraunces",Georgia,serif;
+  --font-body:"IBM Plex Sans",system-ui,sans-serif;
+  --font-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#10181d; --surface:#172229; --fg:#e4ecf0; --muted:#9aaab4; --line:#2a3a44;
+  --accent:#5fc4cb; --accent-soft:#17353a; --code-bg:#1d2b33; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#10181d; --surface:#172229; --fg:#e4ecf0; --muted:#9aaab4; --line:#2a3a44;
+  --accent:#5fc4cb; --accent-soft:#17353a; --code-bg:#1d2b33; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:400 16px/1.6 var(--font-body);
+  padding-block:32px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+main{max-width:920px;margin:0 auto;display:flex;flex-direction:column;gap:28px;min-width:0}
+h1{font:600 clamp(28px,5vw,40px)/1.15 var(--font-display);text-wrap:balance;margin:0}
+h2{font:600 22px/1.25 var(--font-display);margin:0 0 12px;text-wrap:balance}
+p{margin:0;max-width:68ch}
+.chip{display:inline-block;font:500 12px var(--font-mono);letter-spacing:.04em;color:var(--accent);
+  background:var(--accent-soft);padding:3px 10px;border-radius:4px;margin-top:12px}
+.note{border-left:3px solid var(--accent);background:var(--surface);padding:12px 16px;border-radius:0 6px 6px 0;max-width:68ch}
+.scroll{overflow-x:auto;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+table{border-collapse:collapse;min-width:760px;width:100%;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font:500 12px var(--font-mono);letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-family:var(--font-mono);color:var(--muted)}
+a{color:var(--accent)}
+pre{margin:0;background:var(--code-bg);border-radius:6px;padding:14px 16px;overflow-x:auto;font:400 13.5px/1.6 var(--font-mono)}
+code{font-family:var(--font-mono);font-size:.9em;background:var(--code-bg);padding:1px 5px;border-radius:3px}
+pre code{background:none;padding:0;font-size:inherit}
+.stack{display:flex;flex-direction:column;gap:12px;min-width:0}
+ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;max-width:68ch}
+</style>
+
+<main>
+  <header>
+    <h1>Portafolio ETL y calidad de datos para banca y finanzas</h1>
+    <span class="chip">Python 3.10+</span>
+  </header>
+
+  <p>Cuatro proyectos de <strong>extracción, transformación y limpieza de datos</strong> con Python, pensados para casos reales de un banco o financiera. Cada proyecto parte de datos sucios, aplica reglas de negocio, separa los registros rechazados, valida el resultado y publica métricas de calidad.</p>
+
+  <div class="note"><strong>Todos los datos son sintéticos.</strong> Se generan con scripts reproducibles (semilla fija) que inyectan errores a propósito. No contienen información real de clientes, cédulas ni cuentas.</div>
+
+  <section class="stack">
+    <h2>Proyectos</h2>
+    <div class="scroll"><table>
+      <thead><tr><th>#</th><th>Proyecto</th><th>Problema de negocio</th><th>Técnicas</th><th>Resultado clave</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Pipeline de transacciones (<code>01_transacciones</code>)</td><td>Transacciones con duplicados, fechas inválidas y montos mal formateados distorsionan reportes y analítica</td><td>Parseo de fechas y montos, normalización de categorías, cuarentena de rechazos, carga a Parquet/SQLite</td><td>5.150 → 4.896 filas limpias; 254 rechazos con motivo</td></tr>
+        <tr><td>2</td><td>Limpieza y deduplicación de clientes (KYC) (<code>02_kyc_clientes</code>)</td><td>Un mismo cliente cargado varias veces con datos inconsistentes</td><td>Estandarización de cédula, RUC (dígito verificador), teléfono, email; fuzzy matching con blocking; golden record</td><td>Precisión 100 % y recall 95,8 % en detección de duplicados</td></tr>
+        <tr><td>3</td><td>Cartera de créditos y mora (<code>03_cartera_mora</code>)</td><td>Medir morosidad y preparar variables para scoring con datos incompletos</td><td>Imputación, outliers por IQR, días de atraso, tramos, previsión, features</td><td>Índice de morosidad 4,0 % (&gt;90 días)</td></tr>
+        <tr><td>4</td><td>Conciliación bancaria (<code>04_conciliacion</code>)</td><td>Cruzar extracto vs libro contable y explicar cada diferencia</td><td>Matching por etapas, tolerancias, clasificación de partidas, identidad de saldos</td><td>96,5 % conciliado; diferencia de saldos explicada al 100 %</td></tr>
+      </tbody>
+    </table></div>
+    <p>Cada carpeta tiene su propio README con el problema de negocio, el flujo, las reglas aplicadas y los resultados.</p>
+  </section>
+
+  <section class="stack">
+    <h2>Cómo ejecutarlo</h2>
+<pre><code>git clone https://github.com/arturoperez129/Portfolio-etl-banca.git
+cd Portfolio-etl-banca
+python -m venv .venv
+.venv\Scripts\activate          # Windows
+# source .venv/bin/activate     # Mac/Linux
+pip install -r requirements-dev.txt</code></pre>
+    <p>Con <code>make</code> (Mac/Linux): <code>make data</code>, <code>make run</code> y <code>make test</code>.</p>
+    <p>Sin <code>make</code> (Windows), para cada proyecto, por ejemplo el primero:</p>
+<pre><code>python 01_transacciones/scripts/generate_data.py
+cd 01_transacciones
+python -m etl_transacciones.pipeline
+cd ..</code></pre>
+    <p>Los módulos de cada proyecto son <code>etl_transacciones</code>, <code>etl_kyc</code>, <code>etl_mora</code> y <code>etl_conciliacion</code>. Para los tests, desde la carpeta principal: <code>pytest -q</code>.</p>
+  </section>
+
+  <section class="stack">
+    <h2>Estructura</h2>
+<pre><code>.
+├── 01_transacciones/
+├── 02_kyc_clientes/
+├── 03_cartera_mora/
+├── 04_conciliacion/
+│   Cada proyecto contiene:
+│   ├── etl_&lt;nombre&gt;/      extract, transform, validate, load, pipeline
+│   ├── scripts/           generate_data.py (datos sintéticos)
+│   ├── tests/
+│   ├── data/raw/
+│   └── reports/           metricas.json
+├── .github/workflows/ci.yml   lint + tests + ejecución de pipelines
+└── pyproject.toml · requirements*.txt · Makefile</code></pre>
+  </section>
+
+  <section class="stack">
+    <h2>Principios de diseño</h2>
+    <ul>
+      <li><strong>Funciones puras</strong> de transformación, testeables sin tocar disco.</li>
+      <li><strong>Nada se descarta en silencio:</strong> los registros rechazados se guardan con su <code>motivo_rechazo</code>.</li>
+      <li><strong>Validaciones post-carga</strong> que detienen el pipeline si se rompe una regla de calidad.</li>
+      <li><strong>Métricas por ejecución</strong> (<code>reports/metricas.json</code>) para auditar cuánto se limpió y por qué.</li>
+      <li><strong>Reproducible:</strong> semilla fija y CI en GitHub Actions (Python 3.10 y 3.12).</li>
+    </ul>
+  </section>
+
+  <section class="stack">
+    <h2>Stack</h2>
+    <p><code>pandas</code> · <code>numpy</code> · <code>rapidfuzz</code> · <code>pyarrow</code> · <code>sqlite3</code> · <code>pytest</code> · <code>ruff</code> · GitHub Actions</p>
+  </section>
+
+  <section class="stack">
+    <h2>Aviso</h2>
+    <p>Proyecto con fines educativos y de portafolio. Las reglas, umbrales y porcentajes de previsión son ilustrativos y no reflejan normativa vigente del BCP ni políticas de ninguna entidad.</p>
+  </section>
+</main>
+
+</body></html>
